@@ -1,0 +1,17 @@
+Title:
+Steklov Geometry Processing: An Extrinsic Approach to Spectral Shape  Analysis
+Abstract: We propose Steklov geometry processing, an extrinsic approach to spectral
+geometry processing and shape analysis. Intrinsic approaches, usually based on
+the Laplace-Beltrami operator, cannot capture the spatial embedding of a shape
+up to rigid motion, while many previous extrinsic methods lack theoretical
+justification. Instead, we propose a systematic approach by considering the
+Steklov eigenvalue problem, computing the spectrum of the Dirichlet-to-Neumann
+operator of a surface bounding a volume. A remarkable property of this operator
+is that it encodes the volumetric geometry. We use the boundary element method
+(BEM) to discretize the operator, accelerated by hierarchical numerical schemes
+and preconditioning; this pipeline allows us to solve eigenvalue and linear
+problems on large-scale meshes despite the density of the Dirichlet-to-Neumann
+discretization. We further demonstrate that our operators naturally fit into
+existing frameworks for geometry processing, making a shift from intrinsic to
+extrinsic geometry as simple as substituting the Laplace-Beltrami operator with
+the Dirichlet-to-Neumann operator.

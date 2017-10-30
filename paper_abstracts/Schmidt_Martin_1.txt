@@ -1,0 +1,27 @@
+Title:
+The KPP boundary layer scheme: revisiting its formulation and  benchmarking one-dimensional ocean simulations relative to LES
+Abstract: We evaluate the Community ocean Vertical Mixing (CVMix) project version of
+the K-profile parameterization (KPP). For this purpose, one-dimensional KPP
+simulations are compared across a suite of oceanographically relevant regimes
+against large eddy simulations (LES). The LES is forced with horizontally
+uniform boundary fluxes and has horizontally uniform initial conditions,
+allowing its horizontal average to be compared to one-dimensional KPP tests. We
+find the standard configuration of KPP consistent with LES results across many
+simulations, supporting the physical basis of KPP. We propose some adaptations
+of KPP for improved applicability. First, KPP requires that interior
+diffusivities and gradients be matched to KPP predicted values. We find that
+difficulties in representation of derivatives under rapidly changing
+diffusivities near the base of the ocean surface boundary layer (OSBL) can lead
+to loss of simulation fidelity. We propose two solutions: (1) require linear
+interpolation to match interior diffusivities and gradients and (2) a
+computationally simpler alternative where the KPP diffusivity is set to zero at
+the OSBL base and interior mixing schemes are extended to the surface. Yet the
+latter approach is sensitive to implementation details and we suggest a number
+of solutions to prevent emergence of numerical high frequency noise. Further,
+the chosen time stepping scheme can also impact model biases associated with
+the non-local tracer flux parameterization. While we propose solutions to
+mitigate the artificial near-surface stratification, our results show that the
+KPP parameterized non-local tracer flux is inconsistent with LES results in one
+case due to the assumption that it solely redistributes the surface tracer
+flux. In general, our reevaluation of KPP has led to a series of improved
+recommendations for use of KPP within ocean circulation models.

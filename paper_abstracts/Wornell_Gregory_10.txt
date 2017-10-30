@@ -1,0 +1,18 @@
+Title:
+Efficient Straggler Replication in Large-scale Parallel Computing
+Abstract: In a cloud computing job with many parallel tasks, the tasks on the slowest
+machines (straggling tasks) become the bottleneck in the job completion.
+Computing frameworks such as MapReduce and Spark tackle this by replicating the
+straggling tasks and waiting for any one copy to finish. Despite being adopted
+in practice, there is little analysis of how replication affects the latency
+and the cost of additional computing resources. In this paper we provide a
+framework to analyze this latency-cost trade-off and find the best replication
+strategy by answering design questions such as: 1) when to replicate straggling
+tasks, 2) how many replicas to launch, and 3) whether to kill the original copy
+or not. Our analysis reveals that for certain execution time distributions, a
+small amount of task replication can drastically reduce both latency as well as
+the cost of computing resources. We also propose an algorithm to estimate the
+latency and cost based on the empirical distribution of task execution time.
+Evaluations using samples in the Google Cluster Trace suggest further latency
+and cost reduction compared to the existing replication strategy used in
+MapReduce.

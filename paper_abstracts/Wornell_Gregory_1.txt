@@ -1,0 +1,15 @@
+Title:
+Covert Communication with Channel-State Information at the Transmitter
+Abstract: We consider the problem of covert communication over a state-dependent
+channel, where the transmitter has causal or noncausal knowledge of the channel
+states. Here, "covert" means that a warden on the channel should observe
+similar statistics when the transmitter is sending a message and when it is
+not. When a sufficiently long secret key is shared between the transmitter and
+the receiver, we derive closed-form formulas for the maximum achievable covert
+communication rate ("covert capacity") for discrete memoryless channels and,
+when the transmitter's channel-state information (CSI) is noncausal, for
+additive white Gaussian noise (AWGN) channels. For certain channel models,
+including the AWGN channel, we show that the covert capacity is positive with
+CSI at the transmitter, but is zero without CSI. We also derive lower bounds on
+the rate of the secret key that is needed for the transmitter and the receiver
+to achieve the covert capacity.

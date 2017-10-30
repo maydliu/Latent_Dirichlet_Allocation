@@ -1,0 +1,8 @@
+Title:
+Krein systems
+Abstract: In the present paper we extend results of M.G. Krein associated to the
+spectral problem for Krein systems to systems with matrix valued accelerants
+with a possible jump discontinuity at the origin. Explicit formulas for the
+accelerant are given in terms of the matrizant of the system in question.
+Recent developments in the theory of continuous analogs of the resultant
+operator play an essential role.

@@ -1,0 +1,12 @@
+Title:
+Oriented Hypergraphic Matrix-tree Type Theorems and Bidirected Minors  via Boolean Order Ideals
+Abstract: Restrictions of incidence-preserving path maps produce an oriented
+hypergraphic All Minors Matrix-tree Theorems for Laplacian and adjacency
+matrices. The images of these maps produce a locally signed graphic, incidence
+generalization, of cycle covers and basic figures that correspond to
+incidence-k-forests. When restricted to bidirected graphs the natural partial
+ordering of maps results in disjoint signed boolean lattices whose minor
+calculations correspond to principal order ideals. As an application, (1) the
+determinant formula of a signed graphic Laplacian is reclaimed and shown to be
+determined by the maximal positive-circle-free elements, and (2) spanning trees
+are equivalent to single-element order ideals.

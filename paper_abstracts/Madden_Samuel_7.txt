@@ -1,0 +1,15 @@
+Title:
+Optimally Leveraging Density and Locality to Support LIMIT Queries
+Abstract: Existing database systems are not optimized for queries with a LIMIT
+clause---operating instead in an all-or-nothing manner. In this paper, we
+propose a fast LIMIT query evaluation engine, called NeedleTail, aimed at
+letting analysts browse a small sample of the query results on large datasets
+as quickly as possible, independent of the overall size of the result set.
+NeedleTail introduces density maps, a lightweight in-memory indexing structure,
+and a set of efficient algorithms (with desirable theoretical guarantees) to
+quickly locate promising blocks, trading off locality and density. In settings
+where the samples are used to compute aggregates, we extend techniques from
+survey sampling to mitigate the bias in our samples. Our experimental results
+demonstrate that NeedleTail returns results 4x faster on HDDs and 9x faster on
+SSDs on average, while occupying up to 23x less memory than existing
+techniques.

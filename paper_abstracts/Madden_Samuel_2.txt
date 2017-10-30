@@ -1,0 +1,15 @@
+Title:
+Weld: Rethinking the Interface Between Data-Intensive Applications
+Abstract: Data analytics applications combine multiple functions from different
+libraries and frameworks. Even when each function is optimized in isolation,
+the performance of the combined application can be an order of magnitude below
+hardware limits due to extensive data movement across these functions. To
+address this problem, we propose Weld, a new interface between data-intensive
+libraries that can optimize across disjoint libraries and functions. Weld
+exposes a lazily-evaluated API where diverse functions can submit their
+computations in a simple but general intermediate representation that captures
+their data-parallel structure. It then optimizes data movement across these
+functions and emits efficient code for diverse hardware. Weld can be integrated
+into existing frameworks such as Spark, TensorFlow, Pandas and NumPy without
+changing their user-facing APIs. We demonstrate that Weld can speed up
+applications using these frameworks by up to 29x.

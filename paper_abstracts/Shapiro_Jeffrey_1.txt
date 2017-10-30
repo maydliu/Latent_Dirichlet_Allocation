@@ -1,0 +1,27 @@
+Title:
+Hardware-Efficient Bosonic Quantum Error-Correcting Codes Based on  Symmetry Operators
+Abstract: We establish a symmetry-operator framework for designing quantum error
+correcting~(QEC) codes based on fundamental properties of the underlying system
+dynamics. Based on this framework, we propose three hardware-efficient bosonic
+QEC codes that are suitable for $\chi^{(2)}$-interaction based quantum
+computation: the $\chi^{(2)}$ parity-check code, the $\chi^{(2)}$ embedded
+error-correcting code, and the $\chi^{(2)}$ binomial code, all of which detect
+photon-loss or photon-gain errors by means of photon-number parity measurements
+and then correct them via $\chi^{(2)}$ Hamiltonian evolutions and linear-optics
+transformations. Our symmetry-operator framework provides a systematic
+procedure for finding QEC codes that are not stabilizer codes. The $\chi^{(2)}$
+binomial code is of special interest because, with $m\le N$ identified from
+channel monitoring, it can correct $m$-photon loss errors, $m$-photon gain
+errors, and $(m-1)$th-order dephasing errors using logical qudits that are
+encoded in $O(N)$ photons. In comparison, other bosonic QEC codes require
+$O(N^2)$ photons to correct the same degree of bosonic errors. Such improved
+photon-efficiency underscores the additional error-correction power that can be
+provided by channel monitoring. We develop quantum Hamming bounds for
+photon-loss errors in the code subspaces associated with the $\chi^{(2)}$
+parity-check code and the $\chi^{(2)}$ embedded error-correcting code, and we
+prove that these codes saturate their respective bounds. Our $\chi^{(2)}$ QEC
+codes exhibit hardware efficiency in that they address the principal error
+mechanisms and exploit the available physical interactions of the underlying
+hardware, thus reducing the physical resources required for implementing their
+encoding, decoding, and error-correction operations, and their universal
+encoded-basis gate sets.

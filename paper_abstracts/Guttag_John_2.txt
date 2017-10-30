@@ -1,0 +1,23 @@
+Title:
+A Video-Based Method for Objectively Rating Ataxia
+Abstract: For many movement disorders, such as Parkinson's disease and ataxia, disease
+progression is visually assessed by a clinician using a numerical disease
+rating scale. These tests are subjective, time-consuming, and must be
+administered by a professional. This can be problematic where specialists are
+not available, or when a patient is not consistently evaluated by the same
+clinician. We present an automated method for quantifying the severity of
+motion impairment in patients with ataxia, using only video recordings. We
+consider videos of the finger-to-nose test, a common movement task used as part
+of the assessment of ataxia progression during the course of routine clinical
+checkups.
+Our method uses neural network-based pose estimation and optical flow
+techniques to track the motion of the patient's hand in a video recording. We
+extract features that describe qualities of the motion such as speed and
+variation in performance. Using labels provided by an expert clinician, we
+train a supervised learning model that predicts severity according to the Brief
+Ataxia Rating Scale (BARS). The performance of our system is comparable to that
+of a group of ataxia specialists in terms of mean error and correlation, and
+our system's predictions were consistently within the range of inter-rater
+variability. This work demonstrates the feasibility of using computer vision
+and machine learning to produce consistent and clinically useful measures of
+motor impairment.

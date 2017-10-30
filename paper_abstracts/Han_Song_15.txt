@@ -1,0 +1,6 @@
+Title:
+The only regular inclines are distributive lattices
+Abstract: An incline is an additively idempotent semiring in which the product of two
+elements is always less than or equal to either factor. This paper proves that
+the only regular inclines are distributive lattices, which also implies that
+there is no noncommutative regular incline.

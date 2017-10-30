@@ -1,0 +1,21 @@
+Title:
+Ultrafast Graphene Light Emitter
+Abstract: Ultrafast electrically driven nanoscale light sources are critical components
+in nanophotonics. Compound semiconductor-based light sources for the
+nanophotonic platforms have been extensively investigated over the past
+decades. However, monolithic ultrafast light sources with a small footprint
+remain a challenge. Here, we demonstrate electrically driven ultrafast graphene
+light emitters that achieve light pulse generation with up to 10 GHz bandwidth,
+across a broad spectral range from the visible to the near-infrared. The fast
+response results from ultrafast charge carrier dynamics in graphene, and weak
+electron-acoustic phonon-mediated coupling between the electronic and lattice
+degrees of freedom. We also find that encapsulating graphene with hexagonal
+boron nitride (hBN) layers strongly modifies the emission spectrum by changing
+the local optical density of states, thus providing up to 460 % enhancement
+compared to the grey-body thermal radiation for a broad peak centered at 720
+nm. Furthermore, the hBN encapsulation layers permit stable and bright visible
+thermal radiation with electronic temperatures up to 2,000 K under ambient
+conditions, as well as efficient ultrafast electronic cooling via near-field
+coupling to hybrid polaritonic modes. These high-speed graphene light emitters
+provide a promising path for on-chip light sources for optical communications
+and other optoelectronic applications.

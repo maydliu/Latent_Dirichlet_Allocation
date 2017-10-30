@@ -1,0 +1,16 @@
+Title:
+Analog electromagnetically induced transparency for circularly polarized  wave using three dimensional chiral metamaterials
+Abstract: In this paper, we theoretically and experimentally demonstrate a three
+dimensional metamaterial that can motivate electromagnetic induced transparency
+(EIT) by using circular polarized wave as stimulations. The unit cell consists
+of a pair of metallic strips printed on both sides of the printed circuit board
+(PCB), where a conductive cylinder junction is used to connect the metal strips
+by drilling a hole inside the substrate. When a right circularly polarized wave
+is incident, destructive interference is excited between meta-atoms of the 3D
+structure, the transmission spectrum demonstrates a sharp transparency window.
+A coupled oscillator model and an electrical equivalent circuit model are
+applied to quantitatively and qualitatively analyze the coupling mechanism in
+the EIT-like metamaterial. Analysis in detail shows the EIT window's amplitude
+and frequency are modulated by changing the degree of symmetry breaking. The
+proposed metamaterial may achieve potential applications in developing chiral
+slow light devices.

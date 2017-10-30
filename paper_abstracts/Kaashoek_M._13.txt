@@ -1,0 +1,9 @@
+Title:
+Discrete skew selfadjoint canonical systems and the isotropic Heisenberg  magnet model
+Abstract: A discrete analog of a skew selfadjoint canonical (Zakharov-Shabat or AKNS)
+system with a pseudo-exponential potential is introduced. For the corresponding
+Weyl function the direct and inverse problem are solved explicitly in terms of
+three parameter matrices. As an application explicit solutions are obtained for
+the discrete integrable nonlinear equation corresponding to the isotropic
+Heisenberg magnet model. State space techniques from mathematical system theory
+play an important role in the proofs.

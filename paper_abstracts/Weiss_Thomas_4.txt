@@ -1,0 +1,11 @@
+Title:
+Scaling limit for Brownian motions with one-sided collisions
+Abstract: We consider Brownian motions with one-sided collisions, meaning that each
+particle is reflected at its right neighbour. For a finite number of particles
+a Sch\"{u}tz-type formula is derived for the transition probability. We
+investigate an infinite system with periodic initial configuration, that is,
+particles are located at the integer lattice at time zero. The joint
+distribution of the positions of a finite subset of particles is expressed as a
+Fredholm determinant with a kernel defining a signed determinantal point
+process. In the appropriate large time scaling limit, the fluctuations in the
+particle positions are described by the Airy$_1$ process.

@@ -1,0 +1,12 @@
+Title:
+Brownian Motions with One-Sided Collisions: The Stationary Case
+Abstract: We consider an infinite system of Brownian motions which interact through a
+given Brownian motion being reflected from its left neighbor. Earlier we
+studied this system for deterministic periodic initial configurations. In this
+contribution we consider initial configurations distributed according to a
+Poisson point process with constant intensity, which makes the process
+space-time stationary. We prove convergence to the Airy process for stationary
+the case. As a byproduct we obtain a novel representation of the
+finite-dimensional distributions of this process. Our method differs from the
+one used for the TASEP and the KPZ equation by removing the initial step only
+after the limit $t\to\infty$. This leads to a new universal cross-over process.

@@ -1,0 +1,14 @@
+Title:
+Coalgebraic Logic Programming: from Semantics to Implementation
+Abstract: Coinductive definitions, such as that of an infinite stream, may often be
+described by elegant logic programs, but ones for which SLD-refutation is of no
+value as SLD-derivations fall into infinite loops. Such definitions give rise
+to questions of lazy corecursive derivations and parallelism, as execution of
+such logic programs can have both recursive and corecursive features at once.
+Observational and coalgebraic semantics have been used to study them
+abstractly. The programming developments have often occurred separately and
+have usually been implementation-led. Here, we give a coherent semantics-led
+account of the issues, starting with abstract category theoretic semantics,
+developing coalgebra to characterise naturally arising trees, and proceeding
+towards implementation of a new dialect, CoALP, of logic programming,
+characterised by guarded lazy corecursion and parallelism.

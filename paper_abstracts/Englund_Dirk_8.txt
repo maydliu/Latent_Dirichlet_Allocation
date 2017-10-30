@@ -1,0 +1,12 @@
+Title:
+Metropolitan quantum key distribution with silicon photonics
+Abstract: Photonic integrated circuits (PICs) provide a compact and stable platform for
+quantum photonics. Here we demonstrate a silicon photonics quantum key
+distribution (QKD) transmitter in the first high-speed polarization-based QKD
+field tests. The systems reach composable secret key rates of 950 kbps in a
+local test (on a 103.6-m fiber with a total emulated loss of 9.2 dB) and 106
+kbps in an intercity metropolitan test (on a 43-km fiber with 16.4 dB loss).
+Our results represent the highest secret key generation rate for
+polarization-based QKD experiments at a standard telecom wavelength and
+demonstrate PICs as a promising, scalable resource for future formation of
+metropolitan quantum-secure communications networks.

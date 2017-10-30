@@ -1,0 +1,17 @@
+Title:
+Towards Approximate Model Checking DC and PDC Specifications
+Abstract: DC has proved to be a promising tool for the specification and verification
+of functional requirements on the design of hard real-time systems. Many works
+were devoted to develop effective techniques for checking the models of hard
+real-time systems against DC specifications. DC model checking theory is still
+evolving and yet there is no available tools supporting practical verifications
+due to the high undecidability of calculus and the great complexity of model
+checking. Present situation of PDC model checking is much worse than the one of
+DC model checking. In view of the results so far achieved, it is desirable to
+develop approximate model checking techniques for DC and PDC specifications.
+This work was motivated to develop approximate techniques checking automata
+models of hard real-time systems for DC and PDC specifications. Unlike previous
+works which only deal with decidable formulas, we want to develop approximate
+techniques covering whole DC and PDC formulas. The first results of our work,
+namely, approximate techniques checking real-time automata models of systems
+for LDI and PLDI specifications, are described in this paper.

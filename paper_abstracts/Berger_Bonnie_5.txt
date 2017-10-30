@@ -1,0 +1,16 @@
+Title:
+Entropy-scaling search of massive biological data
+Abstract: Many datasets exhibit a well-defined structure that can be exploited to
+design faster search tools, but it is not always clear when such acceleration
+is possible. Here, we introduce a framework for similarity search based on
+characterizing a dataset's entropy and fractal dimension. We prove that
+searching scales in time with metric entropy (number of covering hyperspheres),
+if the fractal dimension of the dataset is low, and scales in space with the
+sum of metric entropy and information-theoretic entropy (randomness of the
+data). Using these ideas, we present accelerated versions of standard tools,
+with no loss in specificity and little loss in sensitivity, for use in three
+domains---high-throughput drug screening (Ammolite, 150x speedup), metagenomics
+(MICA, 3.5x speedup of DIAMOND [3,700x BLASTX]), and protein structure search
+(esFragBag, 10x speedup of FragBag). Our framework can be used to achieve
+"compressive omics," and the general theory can be readily applied to data
+science problems outside of biology.

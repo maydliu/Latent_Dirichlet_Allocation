@@ -1,0 +1,22 @@
+Title:
+Spectral Alignment of Graphs
+Abstract: Graph alignment refers to the problem of finding a bijective mapping across
+vertices of two graphs such that, if two nodes are connected in the first
+graph, their images are connected in the second graph. This problem arises in
+many fields such as computational biology, social sciences, and computer vision
+and is often cast as a quadratic assignment problem (QAP). Most standard graph
+alignment methods consider an optimization that maximizes the number of matches
+between the two graphs, ignoring the effect of mismatches. We propose a
+generalized graph alignment formulation that considers both matches and
+mismatches in a standard QAP formulation. This modification can have a major
+impact in aligning graphs with different sizes and heterogenous edge densities.
+Moreover, we propose two methods for solving the generalized graph alignment
+problem based on spectral decomposition of matrices. We compare the performance
+of proposed methods with some existing graph alignment algorithms including
+Natalie2, GHOST, IsoRank, NetAlign, Klau's approach as well as a semidefinite
+programming-based method over various synthetic and real graph models. Our
+proposed method based on simultaneous alignment of multiple eigenvectors leads
+to consistently good performance in different graph models. In particular, in
+the alignment of regular graph structures which is one of the most difficult
+graph alignment cases, our proposed method significantly outperforms other
+methods.

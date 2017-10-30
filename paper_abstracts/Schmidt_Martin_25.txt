@@ -1,0 +1,11 @@
+Title:
+Existence of minimizing Willmore surfaces of prescribed conformal class
+Abstract: We consider the class of all conformal mappings from a compact Riemann
+surface into the threedimensional or fourdimensional Euclidean space. A
+sequence in this class with bounded Willmore functional is shown to have a
+sequence of conformal transformations of the target space, such that a
+subsequence of the transformed sequence converges. This implies that there
+exists a smooth conformal mapping, which minimizes the Willmore functional in
+this class. For this purpose we extend the quaternionic function theory of
+Pedit and Pinkall to square integrable Hopf fields. In particular, we proof the
+Pluecker formula for such Hopf fields.

@@ -1,0 +1,15 @@
+Title:
+On the local stability of semidefinite relaxations
+Abstract: In this paper we consider a parametric family of polynomial optimization
+problems over algebraic sets. Although these problems are typically nonconvex,
+tractable convex relaxations via semidefinite programming (SDP) have been
+proposed. Often times in applications there is a natural value of the
+parameters for which the relaxation will solve the problem exactly. We study
+conditions (and quantitative bounds) under which the relaxation will continue
+to be exact as the parameter moves in a neighborhood of the original one. It
+suffices to restrict to quadratically constrained quadratic programs. Our
+framework captures several estimation problems such as low rank approximation,
+camera triangulation, rotation synchronization, approximate matrix completion
+and approximate GCD. In these applications, a solution is easy under noiseless
+observations, and our results guarantee that the SDP relaxation will continue
+to solve the problem in the low noise regime.

@@ -1,0 +1,12 @@
+Title:
+Generalized Fréchet Bounds for Cell Entries in Multidimensional  Contingency Tables
+Abstract: We consider the lattice, $\mathcal{L}$, of all subsets of a multidimensional
+contingency table and establish the properties of monotonicity and
+supermodularity for the marginalization function, $n(\cdot)$, on $\mathcal{L}$.
+We derive from the supermodularity of $n(\cdot)$ some generalized Fr\'echet
+inequalities complementing and extending inequalities of Dobra and Fienberg.
+Further, we construct new monotonic and supermodular functions from $n(\cdot)$,
+and we remark on the connection between supermodularity and some correlation
+inequalities for probability distributions on lattices. We also apply an
+inequality of Ky Fan to derive a new approach to Fr\'echet inequalities for
+multidimensional contingency tables.

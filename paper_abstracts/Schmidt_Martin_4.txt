@@ -1,0 +1,14 @@
+Title:
+Solutions of the Sinh-Gordon Equation of Spectral Genus Two and  constrained Willmore Tori I
+Abstract: We investigate solutions of the elliptic sinh-Gordon equation of spectral
+genus g<3. These solutions are parametrized by complex matrix-valued
+polynomials called potentials. On the space of these potentials there act two
+commuting flows. The orbits of these flows are called Polynomial Killing fields
+and are double periodic. The eigenvalues of these matrix-valued polynomials are
+preserved along the flows and determine the lattice of periods. We investigate
+the level sets of these eigenvalues, which are called isospectral sets, and the
+dependence of the period lattice on the isospectral sets. The limiting cases of
+spectral genus one and zero are included. Moreover, these limiting cases are
+used to construct on every elliptic curve three conformal maps to R^4 which are
+constrained Willmore. Finally, the Willmore functional is calculated in
+dependence of the conformal class.

@@ -1,0 +1,29 @@
+Title:
+On the Difference Between Closest, Furthest, and Orthogonal Pairs:  Nearly-Linear vs Barely-Subquadratic Complexity in Computational Geometry
+Abstract: Point location problems for $n$ points in $d$-dimensional Euclidean space
+(and $\ell_p$ spaces more generally) have typically had two kinds of
+running-time solutions:
+* (Nearly-Linear) less than $d^{poly(d)} \cdot n \log^{O(d)} n$ time, or
+* (Barely-Subquadratic) $f(d) \cdot n^{2-1/\Theta(d)}$ time, for various $f$.
+For small $d$ and large $n$, "nearly-linear" running times are generally
+feasible, while "barely-subquadratic" times are generally infeasible. For
+example, in the Euclidean metric, finding a Closest Pair among $n$ points in
+${\mathbb R}^d$ is nearly-linear, solvable in $2^{O(d)} \cdot n \log^{O(1)} n$
+time, while known algorithms for Furthest Pair (the diameter of the point set)
+are only barely-subquadratic, requiring $\Omega(n^{2-1/\Theta(d)})$ time. Why
+do these proximity problems have such different time complexities? Is there a
+barrier to obtaining nearly-linear algorithms for problems which are currently
+only barely-subquadratic?
+We give a novel exact and deterministic self-reduction for the Orthogonal
+Vectors problem on $n$ vectors in $\{0,1\}^d$ to $n$ vectors in ${\mathbb
+Z}^{\omega(\log d)}$ that runs in $2^{o(d)}$ time. As a consequence,
+barely-subquadratic problems such as Euclidean diameter, Euclidean bichromatic
+closest pair, ray shooting, and incidence detection do not have
+$O(n^{2-\epsilon})$ time algorithms (in Turing models of computation) for
+dimensionality $d = \omega(\log \log n)^2$, unless the popular Orthogonal
+Vectors Conjecture and the Strong Exponential Time Hypothesis are false. That
+is, while poly-log-log-dimensional Closest Pair is in $n^{1+o(1)}$ time, the
+analogous case of Furthest Pair can encode larger-dimensional problems
+conjectured to require $n^{2-o(1)}$ time. We also show that the All-Nearest
+Neighbors problem in $\omega(\log n)$ dimensions requires $n^{2-o(1)}$ time to
+solve, assuming either of the above conjectures.

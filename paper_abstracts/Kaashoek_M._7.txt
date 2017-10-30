@@ -1,0 +1,12 @@
+Title:
+Optimal solutions to matrix-valued Nehari problems and related limit  theorems
+Abstract: In a 1990 paper Helton and Young showed that under certain conditions the
+optimal solution of the Nehari problem corresponding to a finite rank Hankel
+operator with scalar entries can be efficiently approximated by certain
+functions defined in terms of finite dimensional restrictions of the Hankel
+operator. In this paper it is shown that these approximants appear as optimal
+solutions to restricted Nehari problems. The latter problems can be solved
+using relaxed commutant lifting theory. This observation is used to extent the
+Helton and Young approximation result to a matrix-valued setting. As in the
+Helton and Young paper the rate of convergence depends on the choice of the
+initial space in the approximation scheme.

@@ -1,0 +1,20 @@
+Title:
+PIQL: Success-Tolerant Query Processing in the Cloud
+Abstract: Newly-released web applications often succumb to a "Success Disaster," where
+overloaded database machines and resulting high response times destroy a
+previously good user experience. Unfortunately, the data independence provided
+by a traditional relational database system, while useful for agile
+development, only exacerbates the problem by hiding potentially expensive
+queries under simple declarative expressions. As a result, developers of these
+applications are increasingly abandoning relational databases in favor of
+imperative code written against distributed key/value stores, losing the many
+benefits of data independence in the process. Instead, we propose PIQL, a
+declarative language that also provides scale independence by calculating an
+upper bound on the number of key/value store operations that will be performed
+for any query. Coupled with a service level objective (SLO) compliance
+prediction model and PIQL's scalable database architecture, these bounds make
+it easy for developers to write success-tolerant applications that support an
+arbitrarily large number of users while still providing acceptable performance.
+In this paper, we present the PIQL query processing system and evaluate its
+scale independence on hundreds of machines using two benchmarks, TPC-W and
+SCADr.

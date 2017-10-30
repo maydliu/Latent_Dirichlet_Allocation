@@ -1,0 +1,20 @@
+Title:
+Sorting with Asymmetric Read and Write Costs
+Abstract: Emerging memory technologies have a significant gap between the cost, both in
+time and in energy, of writing to memory versus reading from memory. In this
+paper we present models and algorithms that account for this difference, with a
+focus on write-efficient sorting algorithms. First, we consider the PRAM model
+with asymmetric write cost, and show that sorting can be performed in
+$O\left(n\right)$ writes, $O\left(n \log n\right)$ reads, and logarithmic depth
+(parallel time). Next, we consider a variant of the External Memory (EM) model
+that charges $\omega > 1$ for writing a block of size $B$ to the secondary
+memory, and present variants of three EM sorting algorithms (multi-way
+mergesort, sample sort, and heapsort using buffer trees) that asymptotically
+reduce the number of writes over the original algorithms, and perform roughly
+$\omega$ block reads for every block write. Finally, we define a variant of the
+Ideal-Cache model with asymmetric write costs, and present write-efficient,
+cache-oblivious parallel algorithms for sorting, FFTs, and matrix
+multiplication. Adapting prior bounds for work-stealing and
+parallel-depth-first schedulers to the asymmetric setting, these yield parallel
+cache complexity bounds for machines with private caches or with a shared
+cache, respectively.

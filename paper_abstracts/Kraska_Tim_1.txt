@@ -1,0 +1,15 @@
+Title:
+Controlling False Discoveries During Interactive Data Exploration
+Abstract: Recent tools for interactive data exploration significantly increase the
+chance that users make false discoveries. The crux is that these tools
+implicitly allow the user to test a large body of different hypotheses with
+just a few clicks thus incurring in the issue commonly known in statistics as
+the multiple hypothesis testing error. In this paper, we propose solutions to
+integrate multiple hypothesis testing control into interactive data exploration
+tools. A key insight is that existing methods for controlling the false
+discovery rate (such as FDR) are not directly applicable for interactive data
+exploration. We therefore discuss a set of new control procedures that are
+better suited and integrated them in our system called Aware. By means of
+extensive experiments using both real-world and synthetic data sets we
+demonstrate how Aware can help experts and novice users alike to efficiently
+control false discoveries.

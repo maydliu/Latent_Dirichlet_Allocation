@@ -1,0 +1,7 @@
+Title:
+Level Splitting in Association with the Multiphoton Bloch-Siegert Shift
+Abstract: We present a unitary equivalent spin-boson Hamiltonian in which terms can be
+identified which contribute to the Bloch-Siegert shift, and to the level
+splittings at the anticrossings associated with the Bloch-Siegert resonances.
+First-order degenerate perturbation theory is used to develop approximate
+results in the case of moderate coupling for the level splitting.

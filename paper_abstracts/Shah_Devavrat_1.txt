@@ -1,0 +1,25 @@
+Title:
+Centralized Congestion Control and Scheduling in a Datacenter
+Abstract: We consider the problem of designing a packet-level congestion control and
+scheduling policy for datacenter networks. Current datacenter networks
+primarily inherit the principles that went into the design of Internet, where
+congestion control and scheduling are distributed. While distributed
+architecture provides robustness, it suffers in terms of performance. Unlike
+Internet, data center is fundamentally a "controlled" environment. This raises
+the possibility of designing a centralized architecture to achieve better
+performance. Recent solutions such as Fastpass and Flowtune have provided the
+proof of this concept. This raises the question: what is theoretically optimal
+performance achievable in a data center?
+We propose a centralized policy that guarantees a per-flow end-to-end flow
+delay bound of $O$(#hops $\times$ flow-size $/$ gap-to-capacity). Effectively
+such an end-to-end delay will be experienced by flows even if we removed
+congestion control and scheduling constraints as the resulting queueing
+networks can be viewed as the classical reversible multi-class queuing network,
+which has a product-form stationary distribution. In the language of Harrison
+et al., we establish that baseline performance for this model class is
+achievable.
+Indeed, as the key contribution of this work, we propose a method to emulate
+such a reversible queuing network while satisfying congestion control and
+scheduling constraints. Precisely, our policy is an emulation of
+Store-and-Forward (SFA) congestion control in conjunction with
+Last-Come-First-Serve Preemptive-Resume (LCFS-PR) scheduling policy.

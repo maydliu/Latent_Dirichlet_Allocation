@@ -1,0 +1,14 @@
+Title:
+The Expected Optimal Labeling Order Problem for Crowdsourced Joins and  Entity Resolution
+Abstract: In the SIGMOD 2013 conference, we published a paper extending our earlier
+work on crowdsourced entity resolution to improve crowdsourced join processing
+by exploiting transitive relationships [Wang et al. 2013]. The VLDB 2014
+conference has a paper that follows up on our previous work [Vesdapunt et al.,
+2014], which points out and corrects a mistake we made in our SIGMOD paper.
+Specifically, in Section 4.2 of our SIGMOD paper, we defined the "Expected
+Optimal Labeling Order" (EOLO) problem, and proposed an algorithm for solving
+it. We incorrectly claimed that our algorithm is optimal. In their paper,
+Vesdapunt et al. show that the problem is actually NP-Hard, and based on that
+observation, propose a new algorithm to solve it. In this note, we would like
+to put the Vesdapunt et al. results in context, something we believe that their
+paper does not adequately do.

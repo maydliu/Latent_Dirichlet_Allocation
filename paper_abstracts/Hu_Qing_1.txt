@@ -1,0 +1,9 @@
+Title:
+Limits on light WIMPs with a 1 kg-scale germanium detector at 160 eVee  physics threshold at the China Jinping Underground Laboratory
+Abstract: We report results of a search for light weakly interacting massive particles
+(WIMPs) dark matter from CDEX-1 experiment at the China Jinping Underground
+Laboratory (CJPL). Constraints on WIMP-nucleon spin-independent (SI) and
+spin-dependent (SD) couplings are derived with a physics threshold of 160 eVee,
+from an exposure of 737.1 kg-days. The SI and SD limits extend the lower reach
+of light WIMPs to 2 GeV and improve over our earlier bounds at WIMPs mass less
+than 6 GeV.

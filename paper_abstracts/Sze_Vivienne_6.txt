@@ -1,0 +1,15 @@
+Title:
+FAST: A Framework to Accelerate Super-Resolution Processing on  Compressed Videos
+Abstract: State-of-the-art super-resolution (SR) algorithms require significant
+computational resources to achieve real-time throughput (e.g., 60Mpixels/s for
+HD video). This paper introduces FAST (Free Adaptive Super-resolution via
+Transfer), a framework to accelerate any SR algorithm applied to compressed
+videos. FAST exploits the temporal correlation between adjacent frames such
+that SR is only applied to a subset of frames; SR pixels are then transferred
+to the other frames. The transferring process has negligible computation cost
+as it uses information already embedded in the compressed video (e.g., motion
+vectors and residual). Adaptive processing is used to retain accuracy when the
+temporal correlation is not present (e.g., occlusions). FAST accelerates
+state-of-the-art SR algorithms by up to 15x with a visual quality loss of
+0.2dB. FAST is an important step towards real-time SR algorithms for ultra-HD
+displays and energy constrained devices (e.g., phones and tablets).

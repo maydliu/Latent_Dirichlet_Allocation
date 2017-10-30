@@ -1,0 +1,19 @@
+Title:
+SCNN: An Accelerator for Compressed-sparse Convolutional Neural Networks
+Abstract: Convolutional Neural Networks (CNNs) have emerged as a fundamental technology
+for machine learning. High performance and extreme energy efficiency are
+critical for deployments of CNNs in a wide range of situations, especially
+mobile platforms such as autonomous vehicles, cameras, and electronic personal
+assistants. This paper introduces the Sparse CNN (SCNN) accelerator
+architecture, which improves performance and energy efficiency by exploiting
+the zero-valued weights that stem from network pruning during training and
+zero-valued activations that arise from the common ReLU operator applied during
+inference. Specifically, SCNN employs a novel dataflow that enables maintaining
+the sparse weights and activations in a compressed encoding, which eliminates
+unnecessary data transfers and reduces storage requirements. Furthermore, the
+SCNN dataflow facilitates efficient delivery of those weights and activations
+to the multiplier array, where they are extensively reused. In addition, the
+accumulation of multiplication products are performed in a novel accumulator
+array. Our results show that on contemporary neural networks, SCNN can improve
+both performance and energy by a factor of 2.7x and 2.3x, respectively, over a
+comparably provisioned dense CNN accelerator.

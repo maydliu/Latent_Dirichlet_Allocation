@@ -1,0 +1,13 @@
+Title:
+Polarization control of quantum dot emission by chiral photonic crystal  slabs
+Abstract: We investigate theoretically the polarization properties of the quantum dot's
+optical emission from chiral photonic crystal structures made of achiral
+materials in the absence of external magnetic field at room temperature. The
+mirror symmetry of the local electromagnetic field is broken in this system due
+to the decreased symmetry of the chiral modulated layer. As a result, the
+radiation of randomly polarized quantum dots normal to the structure becomes
+partially circularly polarized. The sign and degree of circular polarization
+are determined by the geometry of the chiral modulated structure and depend on
+the radiation frequency. A degree of circular polarization up to 99% can be
+achieved for randomly distributed quantum dots, and can be close to 100% for
+some single quantum dots.

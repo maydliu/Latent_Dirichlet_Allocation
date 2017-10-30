@@ -1,0 +1,18 @@
+Title:
+The End of a Myth: Distributed Transactions Can Scale
+Abstract: The common wisdom is that distributed transactions do not scale. But what if
+distributed transactions could be made scalable using the next generation of
+networks and a redesign of distributed databases? There would be no need for
+developers anymore to worry about co-partitioning schemes to achieve decent
+performance. Application development would become easier as data placement
+would no longer determine how scalable an application is. Hardware provisioning
+would be simplified as the system administrator can expect a linear scale-out
+when adding more machines rather than some complex sub-linear function, which
+is highly application specific.
+In this paper, we present the design of our novel scalable database system
+NAM-DB and show that distributed transactions with the very common Snapshot
+Isolation guarantee can indeed scale using the next generation of RDMA-enabled
+network technology without any inherent bottlenecks. Our experiments with the
+TPC-C benchmark show that our system scales linearly to over 6.5 million
+new-order (14.5 million total) distributed transactions per second on 56
+machines.

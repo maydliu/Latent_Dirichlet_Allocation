@@ -1,0 +1,20 @@
+Title:
+Routing entanglement in the quantum internet
+Abstract: Remote quantum entanglement can enable numerous applications including
+distributed quantum computation, secure communication, and precision sensing.
+In this paper, we consider how a quantum network-nodes equipped with limited
+quantum processing capabilities connected via lossy optical links-can
+distribute high-rate entanglement simultaneously between multiple pairs of
+users (multiple flows). We develop protocols for such quantum "repeater" nodes,
+which enable a pair of users to achieve large gains in entanglement rates over
+using a linear chain of quantum repeaters, by exploiting the diversity of
+multiple paths in the network. Additionally, we develop repeater protocols that
+enable multiple user pairs to generate entanglement simultaneously at rates
+that can far exceed what is possible with repeaters time sharing among
+assisting individual entanglement flows. Our results suggest that the
+early-stage development of quantum memories with short coherence times and
+implementations of probabilistic Bell-state measurements can have a much more
+profound impact on quantum networks than may be apparent from analyzing linear
+repeater chains. This framework should spur the development of a general
+quantum network theory, bringing together quantum memory physics, quantum
+information theory, and computer network theory.

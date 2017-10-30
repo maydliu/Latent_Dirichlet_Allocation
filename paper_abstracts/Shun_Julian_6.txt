@@ -1,0 +1,28 @@
+Title:
+Efficient Algorithms with Asymmetric Read and Write Costs
+Abstract: In several emerging technologies for computer memory (main memory), the cost
+of reading is significantly cheaper than the cost of writing. Such asymmetry in
+memory costs poses a fundamentally different model from the RAM for algorithm
+design. In this paper we study lower and upper bounds for various problems
+under such asymmetric read and write costs. We consider both the case in which
+all but $O(1)$ memory has asymmetric cost, and the case of a small cache of
+symmetric memory. We model both cases using the $(M,\omega)$-ARAM, in which
+there is a small (symmetric) memory of size $M$ and a large unbounded
+(asymmetric) memory, both random access, and where reading from the large
+memory has unit cost, but writing has cost $\omega\gg 1$.
+For FFT and sorting networks we show a lower bound cost of $\Omega(\omega
+n\log_{\omega M} n)$, which indicates that it is not possible to achieve
+asymptotic improvements with cheaper reads when $\omega$ is bounded by a
+polynomial in $M$. Also, there is an asymptotic gap (of $\min(\omega,\log
+n)/\log(\omega M)$) between the cost of sorting networks and comparison sorting
+in the model. This contrasts with the RAM, and most other models. We also show
+a lower bound for computations on an $n\times n$ diamond DAG of $\Omega(\omega
+n^2/M)$ cost, which indicates no asymptotic improvement is achievable with fast
+reads. However, we show that for the edit distance problem (and related
+problems), which would seem to be a diamond DAG, there exists an algorithm with
+only $O(\omega n^2/(M\min(\omega^{1/3},M^{1/2})))$ cost. To achieve this we
+make use of a "path sketch" technique that is forbidden in a strict DAG
+computation. Finally, we show several interesting upper bounds for shortest
+path problems, minimum spanning trees, and other problems. A common theme in
+many of the upper bounds is to have redundant computation to tradeoff between
+reads and writes.

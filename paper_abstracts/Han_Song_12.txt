@@ -1,0 +1,9 @@
+Title:
+Order-indices and order-periods of 3x3 matrices over commutative  inclines
+Abstract: An incline is an additively idempotent semiring in which the product of two
+elements is always less than or equal to either factor. By making use of prime
+numbers, this paper proves that A^{11} is less than or equal to A^5 for all 3x3
+matrices A over an arbitrary commutative incline, thus giving an answer to an
+open problem "For 3x3 matrices over any incline (even noncommutative) is X^5
+greater than or equal to X^{11}?", proposed by Cao, Kim and Roush in a
+monograph Incline Algebra and Applications, 1984.

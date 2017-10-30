@@ -1,0 +1,15 @@
+Title:
+Public Evidence from Secret Ballots
+Abstract: Elections seem simple---aren't they just counting? But they have a unique,
+challenging combination of security and privacy requirements. The stakes are
+high; the context is adversarial; the electorate needs to be convinced that the
+results are correct; and the secrecy of the ballot must be ensured. And they
+have practical constraints: time is of the essence, and voting systems need to
+be affordable and maintainable, and usable by voters, election officials, and
+pollworkers. It is thus not surprising that voting is a rich research area
+spanning theory, applied cryptography, practical systems analysis, usable
+security, and statistics. Election integrity involves two key concepts:
+convincing evidence that outcomes are correct and privacy, which amounts to
+convincing assurance that there is no evidence about how any given person
+voted. These are obviously in tension. We examine how current systems walk this
+tightrope.

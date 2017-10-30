@@ -1,0 +1,21 @@
+Title:
+Truly Sub-cubic Algorithms for Language Edit Distance and RNA Folding  via Fast Bounded-Difference Min-Plus Product
+Abstract: It is a major open problem whether the $(\min,+)$-product of two $n\times n$
+matrices has a truly sub-cubic (i.e. $O(n^{3-\epsilon})$ for $\epsilon>0$) time
+algorithm, in particular since it is equivalent to the famous
+All-Pairs-Shortest-Paths problem (APSP) in $n$-vertex graphs. Some restrictions
+of the $(\min,+)$-product to special types of matrices are known to admit truly
+sub-cubic algorithms, each giving rise to a special case of APSP that can be
+solved faster. In this paper we consider a new, different and powerful
+restriction in which all matrix entries are integers and one matrix can be
+arbitrary, as long as the other matrix has "bounded differences" in either its
+columns or rows, i.e. any two consecutive entries differ by only a small
+amount. We obtain the first truly sub-cubic algorithm for this
+bounded-difference $(\min,+)$-product (answering an open problem of Chan and
+Lewenstein).
+Our new algorithm, combined with a strengthening of an approach of L.~Valiant
+for solving context-free grammar parsing with matrix multiplication, yields the
+first truly sub-cubic algorithms for the following problems: Language Edit
+Distance (a major problem in the parsing community), RNA-folding (a major
+problem in bioinformatics) and Optimum Stack Generation (answering an open
+problem of Tarjan).

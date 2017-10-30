@@ -1,0 +1,16 @@
+Title:
+Push-Pull Block Puzzles are Hard
+Abstract: This paper proves that push-pull block puzzles in 3D are PSPACE-complete to
+solve, and push-pull block puzzles in 2D with thin walls are NP-hard to solve,
+settling an open question by Zubaran and Ritt. Push-pull block puzzles are a
+type of recreational motion planning problem, similar to Sokoban, that involve
+moving a `robot' on a square grid with $1 \times 1$ obstacles. The obstacles
+cannot be traversed by the robot, but some can be pushed and pulled by the
+robot into adjacent squares. Thin walls prevent movement between two adjacent
+squares. This work follows in a long line of algorithms and complexity work on
+similar problems. The 2D push-pull block puzzle shows up in the video games
+Pukoban as well as The Legend of Zelda: A Link to the Past, giving another
+proof of hardness for the latter. This variant of block-pushing puzzles is of
+particular interest because of its connections to reversibility, since any
+action (e.g., push or pull) can be inverted by another valid action (e.g., pull
+or push).

@@ -1,0 +1,28 @@
+Title:
+Low-density locality-sensitive hashing boosts metagenomic binning
+Abstract: Metagenomic binning is an essential task in analyzing metagenomic sequence
+datasets. To analyze structure or function of microbial communities from
+environmental samples, metagenomic sequence fragments are assigned to their
+taxonomic origins. Although sequence alignment algorithms can readily be used
+and usually provide high-resolution alignments and accurate binning results,
+the computational cost of such alignment-based methods becomes prohibitive as
+metagenomic datasets continue to grow. Alternative compositional-based methods,
+which exploit sequence composition by profiling local short k-mers in
+fragments, are often faster but less accurate than alignment-based methods.
+Inspired by the success of linear error correcting codes in noisy channel
+communication, we introduce Opal, a fast and accurate novel compositional-based
+binning method. It incorporates ideas from Gallager's low-density parity-check
+code to design a family of compact and discriminative locality-sensitive
+hashing functions that encode long-range compositional dependencies in long
+fragments. By incorporating the Gallager LSH functions as features in a simple
+linear SVM, Opal provides fast, accurate and robust binning for datasets
+consisting of a large number of species, even with mutations and sequencing
+errors. Opal not only performs up to two orders of magnitude faster than BWA,
+an alignment-based binning method, but also achieves improved binning accuracy
+and robustness to sequencing errors. Opal also outperforms models built on
+traditional k-mer profiles in terms of robustness and accuracy. Finally, we
+demonstrate that we can effectively use Opal in the "coarse search" stage of a
+compressive genomics pipeline to identify a much smaller candidate set of
+taxonomic origins for a subsequent alignment-based method to analyze, thus
+providing metagenomic binning with high scalability, high accuracy and high
+resolution.

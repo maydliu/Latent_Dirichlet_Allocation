@@ -1,0 +1,18 @@
+Title:
+Hybrid integration of solid-state quantum emitters on a silicon photonic  chip
+Abstract: Scalable quantum photonic systems require efficient single photon sources
+coupled to integrated photonic devices. Solid-state quantum emitters can
+generate single photons with high efficiency, while silicon photonic circuits
+can manipulate them in an integrated device structure. Combining these two
+material platforms could, therefore, significantly increase the complexity of
+integrated quantum photonic devices. Here, we demonstrate hybrid integration of
+solid-state quantum emitters to a silicon photonic device. We develop a
+pick-and-place technique that can position epitaxially grown InAs/InP quantum
+dots emitting at telecom wavelengths on a silicon photonic chip
+deterministically with nanoscale precision. We employ an adiabatic tapering
+approach to transfer the emission from the quantum dots to the waveguide with
+high efficiency. We also incorporate an on-chip silicon-photonic beamsplitter
+to perform a Hanbury-Brown and Twiss measurement. Our approach could enable
+integration of pre-characterized III-V quantum photonic devices into
+large-scale photonic structures to enable complex devices composed of many
+emitters and photons.

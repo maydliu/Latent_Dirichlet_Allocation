@@ -1,0 +1,17 @@
+Title:
+Cu-based metalorganic systems: an ab initio study of the electronic  structure
+Abstract: Within a first principles framework, we study the electronic structure of the
+recently synthesized polymeric coordination compound
+Cu(II)-2,5-bis(pyrazol-1-yl)-1,4-dihydroxybenzene (CuCCP), which has been
+suggested to be a good realization of a Heisenberg spin-1/2 chain with
+antiferromagnetic coupling. By using a combination of classical with ab initio
+quantum mechanical methods, we design on the computer reliable modified
+structures of CuCCP aimed at studying effects of Cu-Cu coupling strength
+variations on this spin-1/2 system. For this purpose, we performed two types of
+modifications on CuCCP. In one case, we replaced H in the linker by i) an
+electron donating group (NH2) and ii) an electron withdrawing group (CN), while
+the other modification consisted in adding H2O and NH3 molecules in the
+structure which change the local coordination of the Cu(II) ions. With the
+NMTO-downfolding method we provide a quantitative analysis of the modified
+electronic structure and the nature of the Cu-Cu interaction paths in these new
+structures and discuss its implications for the underlying microscopic model.

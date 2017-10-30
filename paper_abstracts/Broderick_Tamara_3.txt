@@ -1,0 +1,18 @@
+Title:
+Covariances, Robustness, and Variational Bayes
+Abstract: Variational Bayes (VB) is an approximate Bayesian posterior inference
+technique that is increasingly popular due to its fast runtimes on large-scale
+datasets. However, even when VB provides accurate posterior means for certain
+parameters, it often mis-estimates variances and covariances. Furthermore,
+prior robustness measures have remained undeveloped for VB. By deriving a
+simple formula for the effect of infinitesimal model perturbations on VB
+posterior means, we provide both improved covariance estimates and local
+robustness measures for VB, thus greatly expanding the practical usefulness of
+VB posterior approximations. The estimates for VB posterior covariances rely on
+a result from the classical Bayesian robustness literature relating derivatives
+of posterior expectations to posterior covariances. Our key assumption is that
+the VB approximation provides good estimates of a select subset of posterior
+means -- an assumption that has been shown to hold in many practical settings.
+In our experiments, we demonstrate that our methods are simple, general, and
+fast, providing accurate posterior uncertainty estimates and robustness
+measures with runtimes that can be an order of magnitude smaller than MCMC.

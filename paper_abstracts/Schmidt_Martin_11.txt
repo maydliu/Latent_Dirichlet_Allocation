@@ -1,0 +1,10 @@
+Title:
+(Co)recursion in Logic Programming: Lazy vs Eager
+Abstract: CoAlgebraic Logic Programming (CoALP) is a dialect of Logic Programming
+designed to bring a more precise compile-time and run-time analysis of
+termination and productivity for recursive and corecursive functions in Logic
+Programming. Its second goal is to introduce guarded lazy (co)recursion akin to
+functional theorem provers into logic programming. In this paper, we explain
+lazy features of CoALP, and compare them with the loop-analysis and eager
+execution in Coinductive Logic Programming (CoLP). We conclude by outlining the
+future directions in developing the guarded (co)recursion in logic programming.

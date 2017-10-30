@@ -1,0 +1,17 @@
+Title:
+Atomic structure analysis of nanocrystalline Boehmite AlO(OH)
+Abstract: Nanocrystalline n-AlO(OH) (Disperal P2(R) of Sasol) was investigated by means
+of the atomic pair distribution function (PDF). The PDF is derived from powder
+diffraction data, an ideally resolved PDF is obtained from a synchrotron source
+which provides a large maximal scattering vector length Qmax > 300 nm-1. Here,
+however, we were able to reveal atomic structure details of the about 4 nm
+particles from in-house diffraction data (Qmax = 130 nm-1): PDF least squares
+model refinements show that n-AlO(OH) is of the layered Boehmite structure type
+(oC16, Cmcm). But the structure is uniformly distorted in domains of ca. 2 nm
+size within the nano particles. The hydrogen bonds between the layers are
+widened up significantly by +13 pm, accounting for the higher reactivity when
+compared to microcrystalline Boehmite. Our results from only one
+"nanocrystallographic" experiment are consistent with a trend which was found
+via the Rietveld technique on a series of AlO(OH) of different crystallite size
+(Bokhimi et al., 2001). In addition, the PDF contains information on structural
+distortion as a function of (coherence) domain size within the nano particles.

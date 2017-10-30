@@ -1,0 +1,23 @@
+Title:
+Enabling Privacy-Preserving GWAS in Heterogeneous Human Populations
+Abstract: The projected increase of genotyping in the clinic and the rise of large
+genomic databases has led to the possibility of using patient medical data to
+perform genomewide association studies (GWAS) on a larger scale and at a lower
+cost than ever before. Due to privacy concerns, however, access to this data is
+limited to a few trusted individuals, greatly reducing its impact on biomedical
+research. Privacy preserving methods have been suggested as a way of allowing
+more people access to this precious data while protecting patients. In
+particular, there has been growing interest in applying the concept of
+differential privacy to GWAS results. Unfortunately, previous approaches for
+performing differentially private GWAS are based on rather simple statistics
+that have some major limitations. In particular, they do not correct for
+population stratification, a major issue when dealing with the genetically
+diverse populations present in modern GWAS. To address this concern we
+introduce a novel computational framework for performing GWAS that tailors
+ideas from differential privacy to protect private phenotype information, while
+at the same time correcting for population stratification. This framework
+allows us to produce privacy preserving GWAS results based on two of the most
+commonly used GWAS statistics: EIGENSTRAT and linear mixed model (LMM) based
+statistics. We test our differentially private statistics, PrivSTRAT and
+PrivLMM, on both simulated and real GWAS datasets and find that they are able
+to protect privacy while returning meaningful GWAS results.

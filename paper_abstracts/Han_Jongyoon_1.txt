@@ -1,0 +1,21 @@
+Title:
+Accurate Multi-physics Numerical Analysis of Particle Preconcentration  Based on Ion Concentration Polarization
+Abstract: This paper studies mechanism of preconcentration of charged particles in a
+straight micro-channel embedded with permselective membranes, by numerically
+solving coupled transport equations of ions, charged particles and solvent
+fluid without any simplifying assumptions. It is demonstrated that trapping and
+preconcentration of charged particles are determined by the interplay between
+drag force from the electroosmotic fluid flow and the electrophoretic force
+applied trough the electric field. Several insightful characteristics are
+revealed, including the diverse dynamics of co-ions and counter ions,
+replacement of co-ions by focused particles, lowered ion concentrations in
+particle enriched zone, and enhanced electroosmotic pumping effect etc.
+Conditions for particles that may be concentrated are identified in terms of
+charges, sizes and electrophoretic mobilities of particles and co-ions.
+Dependences of enrichment factor on cross-membrane voltage, initial particle
+concentration and buffer ion concentrations are analyzed and the underlying
+reasons are elaborated. Finally, post priori a condition for validity of
+decoupled simulation model is given based on charges carried by focused charge
+particles and that by buffer co-ions. These results provide important guidance
+in the design and optimization of nanofluidic preconcentration and other
+related devices.

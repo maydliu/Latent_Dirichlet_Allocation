@@ -1,0 +1,12 @@
+Title:
+Upward Partitioned Book Embeddings
+Abstract: We analyze a directed variation of the book embedding problem when the page
+partition is prespecified and the nodes on the spine must be in topological
+order (upward book embedding). Given a directed acyclic graph and a partition
+of its edges into $k$ pages, can we linearly order the vertices such that the
+drawing is upward (a topological sort) and each page avoids crossings? We prove
+that the problem is NP-complete for $k\ge 3$, and for $k\ge 4$ even in the
+special case when each page is a matching. By contrast, the problem can be
+solved in linear time for $k=2$ pages when pages are restricted to matchings.
+The problem comes from Jack Edmonds (1997), motivated as a generalization of
+the map folding problem from computational origami.

@@ -1,0 +1,16 @@
+Title:
+Skew-selfadjoint Dirac systems with rational rectangular Weyl functions:  explicit solutions of direct and inverse problems and integrable wave  equations
+Abstract: In this paper we study direct and inverse problems for discrete and
+continuous time skew-selfadjoint Dirac systems with rectangular (possibly
+non-square) pseudo-exponential potentials. For such a system the Weyl function
+is a strictly proper rational rectangular matrix function and any strictly
+proper rational matrix function appears in this way. In fact, extending earlier
+results, given a strictly proper rational matrix function we present an
+explicit procedure to recover the corresponding potential using techniques from
+mathematical system and control theory. We also introduce and study a nonlinear
+generalized discrete Heisenberg magnet model, extending earlier results for the
+isotropic case. A large part of the paper is devoted to the related discrete
+time systems of which the pseudo-exponential potential depends on an additional
+continuous time parameter. Our techniques allows us to obtain explicit
+solutions for the generalized discrete Heisenberg magnet model and evolution of
+the Weyl functions.

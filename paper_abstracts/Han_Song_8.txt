@@ -1,0 +1,10 @@
+Title:
+k-Congruences on semirings
+Abstract: For any semiring, the concept of k-congruences is introduced, criteria for
+k-congruences are established, it is proved that there is an
+inclusion-preserving bijection between k-congruences and k-ideals, and an
+equivalent condition for the existence of a zero is presented with the help of
+k-congruences. It is shown that a semiring is k-simple iff it is
+k-congruence-simple, and that inclines are k-simple iff they have at most 2
+elements. Lemma 2.12(i) in [Glas. Mat. 42(62) (2007) 301] is pointed out being
+false.

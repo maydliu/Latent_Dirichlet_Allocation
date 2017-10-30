@@ -1,0 +1,16 @@
+Title:
+Coalitional game with opinion exchange
+Abstract: In coalitional games, traditional coalitional game theory does not apply if
+different participants hold different opinions about the payoff function that
+corresponds to each subset of the coalition. In this paper, we propose a
+framework in which players can exchange opinions about their views of payoff
+functions and then decide the distribution of the value of the grand coalition.
+When all players are truth-telling, the problem of opinion consensus is
+decoupled from the coalitional game, but interesting dynamics will arise when
+players are strategic in the consensus phase. Assuming that all players are
+rational, the model implies that, if influential players are risk-averse, an
+efficient fusion of the distributed data is achieved at pure strategy Nash
+equilibrium, meaning that the average opinion will not drift. Also, without the
+assumption that all players are rational, each player can use an algorithmic
+R-learning process, which gives the same result as the pure strategy Nash
+equilibrium with rational players.

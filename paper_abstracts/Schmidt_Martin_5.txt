@@ -1,0 +1,14 @@
+Title:
+Penalty Alternating Direction Methods for Mixed-Integer Optimization: A  New View on Feasibility Pumps
+Abstract: Feasibility pumps are highly effective primal heuristics for mixed-integer
+linear and nonlinear optimization. However, despite their success in practice
+there are only few works considering their theoretical properties. We show that
+feasibility pumps can be seen as alternating direction methods applied to
+special reformulations of the original problem, inheriting the convergence
+theory of these methods. Moreover, we propose a novel penalty framework that
+encompasses this alternating direction method, which allows us to refrain from
+random perturbations that are applied in standard versions of feasibility pumps
+in case of failure. We present a convergence theory for the new penalty based
+alternating direction method and compare the new variant of the feasibility
+pump with existing versions in an extensive numerical study for mixed-integer
+linear and nonlinear problems.

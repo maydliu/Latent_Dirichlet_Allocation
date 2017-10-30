@@ -1,0 +1,8 @@
+Title:
+Exploiting Parallelism in Coalgebraic Logic Programming
+Abstract: We present a parallel implementation of Coalgebraic Logic Programming (CoALP)
+in the programming language Go. CoALP was initially introduced to reflect
+coalgebraic semantics of logic programming, with coalgebraic derivation
+algorithm featuring both corecursion and parallelism. Here, we discuss how the
+coalgebraic semantics influenced our parallel implementation of logic
+programming.

@@ -1,0 +1,20 @@
+Title:
+Inverse Stability Problem and Applications to Renewables Integration
+Abstract: In modern power systems, the operating point, at which the demand and supply
+are balanced, may take different values due to changes in loads and renewable
+generation levels. Understanding the dynamics of stressed power systems with a
+range of operating points would be essential to assuring their reliable
+operation, and possibly allow higher integration of renewable resources. This
+letter introduces a non-traditional way to think about the stability assessment
+problem of power systems. Instead of estimating the set of initial states
+leading to a given operating condition, we characterize the set of operating
+conditions that a power grid converges to from a given initial state under
+changes in power injections and lines. We term this problem as "inverse
+stability", a problem which is rarely addressed in the control and systems
+literature, and hence, poorly understood. Exploiting quadratic approximations
+of the system's energy function, we introduce an estimate of the inverse
+stability region. Also, we briefly describe three important applications of the
+inverse stability notion: (i) robust stability assessment of power systems
+w.r.t. different renewable generation levels, (ii) stability-constrained
+optimal power flow (sOPF), and (iii) stability-guaranteed corrective action
+design.

@@ -1,0 +1,12 @@
+Title:
+Exploring Low Internal Reorganization Energies for Silicene Nanoclusters
+Abstract: High-performance materials rely on small reorganization energies to
+facilitate both charge separation and charge transport. Here, we performed DFT
+calculations to predict small reorganization energies of rectangular silicene
+nanoclusters with hydrogen-passivated edges denoted by H-SiNC. We observe that
+across all geometries, H-SiNCs feature large electron affinities and highly
+stabilized anionic states, indicating their potential as n-type materials. Our
+findings suggest that fine-tuning the size of H-SiNCs along the zigzag and
+armchair directions may permit the design of novel n-type electronic materials
+and spinctronics devices that incorporate both high electron affinities and
+very low internal reorganization energies.

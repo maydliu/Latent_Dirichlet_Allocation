@@ -1,0 +1,15 @@
+Title:
+Getting It All from the Crowd
+Abstract: Hybrid human/computer systems promise to greatly expand the usefulness of
+query processing by incorporating the crowd for data gathering and other tasks.
+Such systems raise many database system implementation questions. Perhaps most
+fundamental is that the closed world assumption underlying relational query
+semantics does not hold in such systems. As a consequence the meaning of even
+simple queries can be called into question. Furthermore query progress
+monitoring becomes difficult due to non-uniformities in the arrival of
+crowdsourced data and peculiarities of how people work in crowdsourcing
+systems. To address these issues, we develop statistical tools that enable
+users and systems developers to reason about tradeoffs between time/cost and
+completeness. These tools can also help drive query execution and crowdsourcing
+strategies. We evaluate our techniques using experiments on a popular
+crowdsourcing platform.

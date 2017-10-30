@@ -1,0 +1,20 @@
+Title:
+Origin of the abnormal diffusion of transition metal in rutile
+Abstract: Diffusion of dopants in rutile is the fundamental process that determines the
+performance of many devices in which rutile is used. The diffusion behavior is
+known to be highly sample-dependent, but the reasons for this are less well
+understood. Here, rutile is studied by using first-principles calculations, in
+order to unravel the microscopic origins of the diverse diffusion behaviors for
+different doping elements. Anomalous diffusion behavior in the open channel
+along [001] direction is found: larger atoms include Sc and Zr have lower
+energy barrier for diffusion via interstitial mechanism, apparently
+contradicting their known slow diffusion rate. To resolve this, we present an
+alternate model for the overall diffusion rate of the large-size dopants in
+rutile, showing that parallel to the [001] channel, it is limited by the
+formation of the interstitial states, whereas in the direction perpendicular to
+[001], it proceeds via a kick-out mechanism. By contrast, Co and Ni, prefer to
+stay in the interstitial site of rutile, and have conventional diffusion with a
+very small migration barrier in the [001] channel. This leads to highly
+anisotropic and fast diffusion. The diffusion mechanisms found in the present
+study can explain the diffusion data measured by experiments, and these
+findings provide novel understanding for the classic diffusion topic.

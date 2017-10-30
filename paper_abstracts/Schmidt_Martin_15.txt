@@ -1,0 +1,11 @@
+Title:
+The Closure of Spectral Data for Constant Mean Curvature Tori in $ S ^ 3  $
+Abstract: The spectral curve correspondence for finite-type solutions of the
+sinh-Gordon equation describes how they arise from and give rise to
+hyperelliptic curves with a real structure. Constant mean curvature (CMC)
+2-tori in $ S ^ 3 $ result when these spectral curves satisfy periodicity
+conditions. We prove that the spectral curves of CMC tori are dense in the
+space of smooth spectral curves of finite-type solutions of the sinh-Gordon
+equation. One consequence of this is the existence of countably many real $ n
+$-dimensional families of CMC tori in $ S ^ 3 $ for each positive integer $ n
+$.

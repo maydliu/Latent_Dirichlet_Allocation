@@ -1,0 +1,5 @@
+Title:
+On mean-convex Alexandrov embedded surfaces in the 3-sphere
+Abstract: We consider mean-convex Alexandrov embedded surfaces in the round unit
+3-sphere, and show under which conditions it is possible to continuously deform
+these preserving mean-convex Alexandrov embeddedness.

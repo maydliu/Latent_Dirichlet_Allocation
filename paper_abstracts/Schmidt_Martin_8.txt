@@ -1,0 +1,17 @@
+Title:
+Potential Errors and Test Assessment in Software Product Line  Engineering
+Abstract: Software product lines (SPL) are a method for the development of variant-rich
+software systems. Compared to non-variable systems, testing SPLs is extensive
+due to an increasingly amount of possible products. Different approaches exist
+for testing SPLs, but there is less research for assessing the quality of these
+tests by means of error detection capability. Such test assessment is based on
+error injection into correct version of the system under test. However to our
+knowledge, potential errors in SPL engineering have never been systematically
+identified before. This article presents an overview over existing paradigms
+for specifying software product lines and the errors that can occur during the
+respective specification processes. For assessment of test quality, we leverage
+mutation testing techniques to SPL engineering and implement the identified
+errors as mutation operators. This allows us to run existing tests against
+defective products for the purpose of test assessment. From the results, we
+draw conclusions about the error-proneness of the surveyed SPL design paradigms
+and how quality of SPL tests can be improved.

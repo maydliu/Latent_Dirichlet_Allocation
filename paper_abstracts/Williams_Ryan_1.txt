@@ -1,0 +1,28 @@
+Title:
+The Orthogonal Vectors Conjecture for Branching Programs and Formulas
+Abstract: In the Orthogonal Vectors (OV) problem, we wish to determine if there is an
+orthogonal pair of vectors among $n$ Boolean vectors in $d$ dimensions. The OV
+Conjecture (OVC) posits that OV requires $n^{2-o(1)}$ time to solve, for all
+$d=\omega(\log n)$. Assuming the OVC, optimal time lower bounds have been
+proved for many prominent problems in $P$.
+We prove that OVC is true in several computational models of interest:
+* For all sufficiently large $n$ and $d$, OV for $n$ vectors in $\{0,1\}^d$
+has branching program complexity $\tilde{\Theta}(n\cdot \min(n,2^d))$. In
+particular, the lower bounds match the upper bounds up to polylog factors.
+* OV has Boolean formula complexity $\tilde{\Theta}(n\cdot \min(n,2^d))$,
+over all complete bases of $O(1)$ fan-in.
+* OV requires $\tilde{\Theta}(n\cdot \min(n,2^d))$ wires, in formulas
+comprised of gates computing arbitrary symmetric functions of unbounded fan-in.
+Our lower bounds basically match the best known (quadratic) lower bounds for
+any explicit function in those models. Analogous lower bounds hold for many
+related problems shown to be hard under OVC, such as Batch Partial Match, Batch
+Subset Queries, and Batch Hamming Nearest Neighbors, all of which have very
+succinct reductions to OV.
+The proofs use a certain kind of input restriction that is different from
+typical random restrictions where variables are assigned independently. We give
+a sense in which independent random restrictions cannot be used to show
+hardness, in that OVC is false in the "average case" even for $AC^0$ formulas:
+* For every fixed $p \in (0,1)$ there is an $\epsilon_p > 0$ such that for
+every $n$ and $d$, OV instances where input bits are independently set to $1$
+with probability $p$ (and $0$ otherwise) can be solved with $AC^0$ formulas of
+size $O(n^{2-\epsilon_p})$, on all but a $o_n(1)$ fraction of instances.

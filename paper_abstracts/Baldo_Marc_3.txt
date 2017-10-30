@@ -1,0 +1,13 @@
+Title:
+360° Domain Walls: Stability, Magnetic Field and Electric Current  Effects
+Abstract: The formation of 360{\deg} magnetic domain walls (360DWs) in Co and Ni80Fe20
+thin film wires was demonstrated experimentally for different wire widths, by
+successively injecting two 180{\deg} domain walls (180DWs) into the wire. For
+narrow wires (less than 50 nm wide for Co), edge roughness prevented the
+combination of the 180DWs into a 360DW, and for wide wires (200 nm for Co) the
+360DW collapsed, but over an intermediate range of wire widths, reproducible
+360DW formation occurred. The annihilation and dissociation of 360DWs was
+demonstrated by applying a magnetic field parallel to the wire, showing that
+annihilation fields were several times higher than dissociation fields in
+agreement with micromagnetic modeling. The annihilation of a 360DW by current
+pulsing was demonstrated.

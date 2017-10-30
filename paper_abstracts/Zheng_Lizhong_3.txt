@@ -1,0 +1,15 @@
+Title:
+Linear Bounds between Contraction Coefficients for $f$-Divergences
+Abstract: Data processing inequalities for $f$-divergences can be sharpened using
+contraction coefficients to produce strong data processing inequalities. These
+contraction coefficients turn out to provide useful optimization problems for
+learning likelihood models. Moreover, the contraction coefficient for
+$\chi^2$-divergence admits a particularly simple linear algebraic solution due
+to its relation to maximal correlation. Propelled by this context, we analyze
+the relationship between various contraction coefficients for $f$-divergences
+and the contraction coefficient for $\chi^2$-divergence. In particular, we
+prove that the latter coefficient can be obtained from the former coefficients
+by driving the input $f$-divergences to zero. Then, we establish linear bounds
+between these contraction coefficients. These bounds are refined for the KL
+divergence case using a well-known distribution dependent variant of Pinsker's
+inequality.

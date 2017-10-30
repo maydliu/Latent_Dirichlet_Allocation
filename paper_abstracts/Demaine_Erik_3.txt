@@ -1,0 +1,16 @@
+Title:
+Inapproximability of the Standard Pebble Game and Hard to Pebble Graphs
+Abstract: Pebble games are single-player games on DAGs involving placing and moving
+pebbles on nodes of the graph according to a certain set of rules. The goal is
+to pebble a set of target nodes using a minimum number of pebbles. In this
+paper, we present a possibly simpler proof of the result in [CLNV15] and
+strengthen the result to show that it is PSPACE-hard to determine the minimum
+number of pebbles to an additive $n^{1/3-\epsilon}$ term for all $\epsilon >
+0$, which improves upon the currently known additive constant hardness of
+approximation [CLNV15] in the standard pebble game. We also introduce a family
+of explicit, constant indegree graphs with $n$ nodes where there exists a graph
+in the family such that using constant $k$ pebbles requires $\Omega(n^k)$ moves
+to pebble in both the standard and black-white pebble games. This independently
+answers an open question summarized in [Nor15] of whether a family of DAGs
+exists that meets the upper bound of $O(n^k)$ moves using constant $k$ pebbles
+with a different construction than that presented in [AdRNV17].

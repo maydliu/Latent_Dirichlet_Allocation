@@ -1,0 +1,15 @@
+Title:
+The genetic prehistory of southern Africa
+Abstract: Southern and eastern African populations that speak non-Bantu languages with
+click consonants are known to harbour some of the most ancient genetic lineages
+in humans, but their relationships are poorly understood. Here, we report data
+from 23 populations analyzed at over half a million single nucleotide
+polymorphisms, using a genome-wide array designed for studying human history.
+The southern African Khoisan fall into two genetic groups, loosely
+corresponding to the northwestern and southeastern Kalahari, which we show
+separated within the last 30,000 years. We find that all individuals derive at
+least a few percent of their genomes from admixture with non-Khoisan
+populations that began approximately 1,200 years ago. In addition, the east
+African Hadza and Sandawe derive a fraction of their ancestry from admixture
+with a population related to the Khoisan, supporting the hypothesis of an
+ancient link between southern and eastern Africa

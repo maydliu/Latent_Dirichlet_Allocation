@@ -1,0 +1,12 @@
+Title:
+Sparkle Vision: Seeing the World through Random Specular Microfacets
+Abstract: In this paper, we study the problem of reproducing the world lighting from a
+single image of an object covered with random specular microfacets on the
+surface. We show that such reflectors can be interpreted as a randomized
+mapping from the lighting to the image. Such specular objects have very
+different optical properties from both diffuse surfaces and smooth specular
+objects like metals, so we design special imaging system to robustly and
+effectively photograph them. We present simple yet reliable algorithms to
+calibrate the proposed system and do the inference. We conduct experiments to
+verify the correctness of our model assumptions and prove the effectiveness of
+our pipeline.

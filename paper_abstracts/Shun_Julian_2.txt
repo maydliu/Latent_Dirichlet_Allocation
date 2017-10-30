@@ -1,0 +1,17 @@
+Title:
+Improved Parallel Construction of Wavelet Trees and Rank/Select  Structures
+Abstract: Existing parallel algorithms for wavelet tree construction have a work
+complexity of $O(n\log\sigma)$. This paper presents parallel algorithms for the
+problem with improved work complexity. Our first algorithm is based on parallel
+integer sorting and has either $O(n\log\log n\lceil\log\sigma/\sqrt{\log
+n\log\log n}\rceil)$ work and polylogarithmic depth, or
+$O(n\lceil\log\sigma/\sqrt{\log n}\rceil)$ work and sub-linear depth. We also
+describe another algorithm that has $O(n\lceil\log\sigma/\sqrt{\log n} \rceil)$
+work and $O(\sigma+\log n)$ depth. We then show how to use similar ideas to
+construct variants of wavelet trees (arbitrary-shaped binary trees and multiary
+trees) as well as wavelet matrices in parallel with lower work complexity than
+prior algorithms. Finally, we show that the rank and select structures on
+binary sequences and multiary sequences, which are stored on wavelet tree
+nodes, can be constructed in parallel with improved work bounds, matching those
+of the best existing sequential algorithms for constructing rank and select
+structures.

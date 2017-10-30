@@ -1,0 +1,22 @@
+Title:
+The Prevalence of Tori amongst Constant Mean Curvature Planes in  $\mathbb{R}^3$
+Abstract: Constant mean curvature (CMC) tori in Euclidean 3-space are described by an
+algebraic curve, called the spectral curve, together with a line bundle on this
+curve and a point on $ S ^ 1 $, called the Sym point. For a given spectral
+curve the possible choices of line bundle and Sym point are easily described.
+The space of spectral curves of tori is totally disconnected. Hence to
+characterise the "moduli space" of CMC tori one should, for each genus $g$,
+determine the closure $\overline{\mathcal{P}^g}$ of spectral curves of CMC tori
+within the spectral curves of CMC planes having spectral genus $g$. We identify
+a real subvariety $\mathcal{R}^g$ and a subset
+$\mathcal{S}^g\subseteq\mathcal{R}^g $ such that
+$\mathcal{R}^g_{\text{max}}\subseteq\overline{\mathcal{P}^g}\subseteq\mathcal{S}^g$,
+where $\mathcal{R}^g_{\text{max}}$ denotes the points of $\mathcal{R}^g$ having
+maximal dimension. The lowest spectral genus for which tori exist is $g=2$ and
+in this case
+$\mathcal{R}^2=\mathcal{R}^2_{\text{max}}=\overline{\mathcal{P}^2}=\mathcal{S}^2$.
+For $g>2 $, we conjecture that
+$\mathcal{R}^g\supsetneq\mathcal{R}^g_{\text{max}}=\mathcal{S}^g$. We give a
+number of alternative characterisations of $\mathcal{R}^g_{\text{max}}$ and in
+particular introduce a new integer invariant of a CMC plane of finite type,
+called its winding number.

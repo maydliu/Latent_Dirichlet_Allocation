@@ -1,0 +1,22 @@
+Title:
+Fault-Tolerant Entity Resolution with the Crowd
+Abstract: In recent years, crowdsourcing is increasingly applied as a means to enhance
+data quality. Although the crowd generates insightful information especially
+for complex problems such as entity resolution (ER), the output quality of
+crowd workers is often noisy. That is, workers may unintentionally generate
+false or contradicting data even for simple tasks. The challenge that we
+address in this paper is how to minimize the cost for task requesters while
+maximizing ER result quality under the assumption of unreliable input from the
+crowd. For that purpose, we first establish how to deduce a consistent ER
+solution from noisy worker answers as part of the data interpretation problem.
+We then focus on the next-crowdsource problem which is to find the next task
+that maximizes the information gain of the ER result for the minimal additional
+cost. We compare our robust data interpretation strategies to alternative
+state-of-the-art approaches that do not incorporate the notion of
+fault-tolerance, i.e., the robustness to noise. In our experimental evaluation
+we show that our approaches yield a quality improvement of at least 20% for two
+real-world datasets. Furthermore, we examine task-to-worker assignment
+strategies as well as task parallelization techniques in terms of their cost
+and quality trade-offs in this paper. Based on both synthetic and crowdsourced
+datasets, we then draw conclusions on how to minimize cost while maintaining
+high quality ER results.

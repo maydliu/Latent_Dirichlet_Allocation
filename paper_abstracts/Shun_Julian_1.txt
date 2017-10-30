@@ -1,0 +1,17 @@
+Title:
+Implicit Decomposition for Write-Efficient Connectivity Algorithms
+Abstract: The future of main memory appears to lie in the direction of new technologies
+that provide strong capacity-to-performance ratios, but have write operations
+that are much more expensive than reads in terms of latency, bandwidth, and
+energy. Motivated by this trend, we propose sequential and parallel algorithms
+to solve graph connectivity problems using significantly fewer writes than
+conventional algorithms. Our primary algorithmic tool is the construction of an
+$o(n)$-sized "implicit decomposition" of a bounded-degree graph $G$ on $n$
+nodes, which combined with read-only access to $G$ enables fast answers to
+connectivity and biconnectivity queries on $G$. The construction breaks the
+linear-write "barrier", resulting in costs that are asymptotically lower than
+conventional algorithms while adding only a modest cost to querying time. For
+general non-sparse graphs on $m$ edges, we also provide the first $o(m)$ writes
+and $O(m)$ operations parallel algorithms for connectivity and biconnectivity.
+These algorithms provide insight into how applications can efficiently process
+computations on large graphs in systems with read-write asymmetry.

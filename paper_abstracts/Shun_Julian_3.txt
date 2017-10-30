@@ -1,0 +1,19 @@
+Title:
+Parallel Local Graph Clustering
+Abstract: Graph clustering has many important applications in computing, but due to
+growing sizes of graphs, even traditionally fast clustering methods such as
+spectral partitioning can be computationally expensive for real-world graphs of
+interest. Motivated partly by this, so-called local algorithms for graph
+clustering have received significant interest due to the fact that they can
+find good clusters in a graph with work proportional to the size of the cluster
+rather than that of the entire graph. This feature has proven to be crucial in
+making such graph clustering and many of its downstream applications efficient
+in practice. While local clustering algorithms are already faster than
+traditional algorithms that touch the entire graph, they are sequential and
+there is an opportunity to make them even more efficient via parallelization.
+In this paper, we show how to parallelize many of these algorithms in the
+shared-memory multicore setting, and we analyze the parallel complexity of
+these algorithms. We present comprehensive experiments on large-scale graphs
+showing that our parallel algorithms achieve good parallel speedups on a modern
+multicore machine, thus significantly speeding up the analysis of local graph
+clusters in the very large-scale setting.

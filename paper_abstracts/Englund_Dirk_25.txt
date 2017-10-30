@@ -1,0 +1,17 @@
+Title:
+Robust multicolor single photon emission from point defects in hexagonal  boron nitride
+Abstract: Hexagonal boron nitride (hBN) is an emerging two dimensional material for
+quantum photonics owing to its large bandgap and hyperbolic properties. Here we
+report a broad range of multicolor room temperature single photon emissions
+across the visible and the near infrared spectral ranges from point defects in
+hBN multilayers. We show that the emitters can be categorized into two general
+groups, but most likely possess similar crystallographic structure. We further
+show two approaches for engineering of the emitters using either electron beam
+irradiation or annealing, and characterize their photophysical properties. The
+emitters exhibit narrow line widths of sub 10 nm at room temperature, and a
+short excited state lifetime with high brightness. Remarkably, the emitters are
+extremely robust and withstand aggressive annealing treatments in oxidizing and
+reducing environments. Our results constitute the first step towards
+deterministic engineering of single emitters in 2D materials and hold great
+promise for the use of defects in boron nitride as sources for quantum
+information processing and nanophotonics.

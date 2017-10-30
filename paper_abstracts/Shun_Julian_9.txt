@@ -1,0 +1,22 @@
+Title:
+Greedy Sequential Maximal Independent Set and Matching are Parallel on  Average
+Abstract: The greedy sequential algorithm for maximal independent set (MIS) loops over
+the vertices in arbitrary order adding a vertex to the resulting set if and
+only if no previous neighboring vertex has been added. In this loop, as in many
+sequential loops, each iterate will only depend directly on a subset of the
+previous iterates (i.e. knowing that any one of a vertices neighbors is in the
+MIS or knowing that it has no previous neighbors is sufficient to decide its
+fate). This leads to a dependence structure among the iterates. If this
+structure is shallow then running the iterates in parallel while respecting the
+dependencies can lead to an efficient parallel implementation mimicking the
+sequential algorithm.
+In this paper, we show that for any graph, and for a random ordering of the
+vertices, the dependence depth of the sequential greedy MIS algorithm is
+polylogarithmic (O(log^2 n) with high probability). Our results extend previous
+results that show polylogarithmic bounds only for random graphs. We show
+similar results for a greedy maximal matching (MM). For both problems we
+describe simple linear work parallel algorithms based on the approach. The
+algorithms allow for a smooth tradeoff between more parallelism and reduced
+work, but always return the same result as the sequential greedy algorithms. We
+present experimental results that demonstrate efficiency and the tradeoff
+between work and parallelism.

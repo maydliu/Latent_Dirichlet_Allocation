@@ -1,0 +1,28 @@
+Title:
+Delay, memory, and messaging tradeoffs in distributed service systems
+Abstract: We consider the following distributed service model: jobs with unit mean,
+exponentially distributed, and independent processing times arrive as a Poisson
+process of rate $\lambda n$, with $0<\lambda<1$, and are immediately dispatched
+by a centralized dispatcher to one of $n$ First-In-First-Out queues associated
+with $n$ identical servers. The dispatcher is endowed with a finite memory, and
+with the ability to exchange messages with the servers.
+We propose and study a resource-constrained "pull-based" dispatching policy
+that involves two parameters: (i) the number of memory bits available at the
+dispatcher, and (ii) the average rate at which servers communicate with the
+dispatcher. We establish (using a fluid limit approach) that the asymptotic, as
+$n\to\infty$, expected queueing delay is zero when either (i) the number of
+memory bits grows logarithmically with $n$ and the message rate grows
+superlinearly with $n$, or (ii) the number of memory bits grows
+superlogarithmically with $n$ and the message rate is at least $\lambda n$.
+Furthermore, when the number of memory bits grows only logarithmically with $n$
+and the message rate is proportional to $n$, we obtain a closed-form expression
+for the (now positive) asymptotic delay.
+Finally, we demonstrate an interesting phase transition in the
+resource-constrained regime where the asymptotic delay is non-zero. In
+particular, we show that for any given $\alpha>0$ (no matter how small), if our
+policy only uses a linear message rate $\alpha n$, the resulting asymptotic
+delay is upper bounded, uniformly over all $\lambda<1$; this is in sharp
+contrast to the delay obtained when no messages are used ($\alpha = 0$), which
+grows as $1/(1-\lambda)$ when $\lambda\uparrow 1$, or when the popular
+power-of-$d$-choices is used, in which the delay grows as
+$\log(1/(1-\lambda))$.

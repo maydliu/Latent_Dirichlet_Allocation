@@ -1,0 +1,12 @@
+Title:
+Highly efficient, dual state emission from an organic semiconductor
+Abstract: We report highly efficient, simultaneous fluorescence and phosphorescence
+(74% yield) at room temperature from a single molecule ensemble of (BzP)PB
+dispersed into a polymer host. The slow phosphorescence (208 ms lifetime) is
+very efficient (50%) at room temperature and only possible because the
+non-radiative rate for the triplet state is extremely low. The ability of an
+organic molecule to function as an efficient dual state emitter at room
+temperature is unusual and opens new fields of applications including the use
+as broadband down-conversion emitters, optical sensors and attenuators, exciton
+probes, and spin-independent intermediates for F\"orster resonant energy
+transfer.

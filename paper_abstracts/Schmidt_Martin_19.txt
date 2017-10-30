@@ -1,0 +1,12 @@
+Title:
+Can the Mott Insulator TiOCl be Metallized by Doping? A First-Principles  Study
+Abstract: We investigate the effect of Na intercalation in the layered Mott insulator
+TiOCl within the framework of density functional theory. We show that the
+system remains always insulating for all studied Na concentrations, and the
+evolution of the spectral weight upon Na doping is consistent with recent
+photoemission experiments. We predict the Na-doped superlattice structures, and
+show that substitutions of O by F, Cl by S, or Ti by V (or Sc), respectively,
+fail to metallize the system. We propose a description in terms of a
+multiorbital ionic Hubbard model in a quasi-two-dimensional lattice and discuss
+the nature of the insulating state under doping. Finally, a likely route for
+metallizing TiOCl by doping is proposed.

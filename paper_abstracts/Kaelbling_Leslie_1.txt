@@ -1,0 +1,11 @@
+Title:
+Generalization in Deep Learning
+Abstract: This paper explains why deep learning can generalize well, despite large
+capacity and possible algorithmic instability, nonrobustness, and sharp minima,
+effectively addressing an open problem in the literature. Based on our
+theoretical insight, this paper also proposes a family of new regularization
+methods. Its simplest member was empirically shown to improve base models and
+achieve state-of-the-art performance on MNIST and CIFAR-10 benchmarks.
+Moreover, this paper presents both data-dependent and data-independent
+generalization guarantees with improved convergence rates. Our results suggest
+several new open areas of research.

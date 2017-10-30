@@ -1,0 +1,20 @@
+Title:
+A Security Protocol for the Identification and Data Encrypt Key  Management of Secure Mobile Devices
+Abstract: In this paper, we proposed an identification and data encrypt key manage
+protocol that can be used in some security system based on such secure devices
+as secure USB memories or RFIDs, which are widely used for identifying persons
+or other objects recently. In general, the default functions of the security
+system using a mobile device are the authentication for the owner of the device
+and secure storage of data stored on the device. We proposed a security model
+that consists of the server and mobile devices in order to realize these
+security features. In this model we defined the secure communication protocol
+for the authentication and management of data encryption keys using a private
+key encryption algorithm with the public key between the server and mobile
+devices. In addition, we was performed the analysis for the attack to the
+communication protocol between the mobile device and server. Using the
+communication protocol, the system will attempt to authenticate the mobile
+device. The data decrypt key is transmitted only if the authentication process
+is successful. The data in the mobile device can be decrypted using the key.
+Our analysis proved that this Protocol ensures anonymity, prevents replay
+attacks and realizes the interactive identification between the security
+devices and the authentication server.

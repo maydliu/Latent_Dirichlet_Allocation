@@ -1,0 +1,17 @@
+Title:
+A Nonparametric Model for Multimodal Collaborative Activities  Summarization
+Abstract: Ego-centric data streams provide a unique opportunity to reason about joint
+behavior by pooling data across individuals. This is especially evident in
+urban environments teeming with human activities, but which suffer from
+incomplete and noisy data. Collaborative human activities exhibit common
+spatial, temporal, and visual characteristics facilitating inference across
+individuals from multiple sensory modalities as we explore in this paper from
+the perspective of meetings. We propose a new Bayesian nonparametric model that
+enables us to efficiently pool video and GPS data towards collaborative
+activities analysis from multiple individuals. We demonstrate the utility of
+this model for inference tasks such as activity detection, classification, and
+summarization. We further demonstrate how spatio-temporal structure embedded in
+our model enables better understanding of partial and noisy observations such
+as localization and face detections based on social interactions. We show
+results on both synthetic experiments and a new dataset of egocentric video and
+noisy GPS data from multiple individuals.

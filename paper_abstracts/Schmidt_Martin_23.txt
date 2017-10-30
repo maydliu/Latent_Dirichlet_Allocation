@@ -1,0 +1,17 @@
+Title:
+Classical and ab initio preparation of reliable structures for polymeric  coordination compounds
+Abstract: The detailed investigation of electronic and magnetic properties of polymeric
+coordination materials with accurate ab initio quantum mechanical methods is
+often computationally extremely demanding because of the large number of atoms
+in the unit cell. Moreover, usually the available structural data are
+insufficient or poorly determined, especially when the structure contains
+hydrogen atoms. In order to be able to perform controlled ab initio
+calculations on reliable structures, we use a two-step approach to
+systematically prepare model structures for polymeric coordination compound
+systems and to relax them to their equilibrium configuration. First, a
+structure is constructed on the basis of a crystallographic database and
+optimized by force field methods; in the second step, the structure is relaxed
+by ab initio quantum mechanical molecular dynamics. With this structure, we
+perform accurate electronic structure calculations. We will apply this
+procedure to a Fe(II) triazole compound and to a coordination polymer of Cu(II)
+ions with 2,5-bis(pyrazol-1-yl)-1,4-dihydroxybenzene.

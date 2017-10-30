@@ -1,0 +1,17 @@
+Title:
+Computing low-rank approximations of large-scale matrices with the  Tensor Network randomized SVD
+Abstract: We propose a new algorithm for the computation of a singular value
+decomposition (SVD) low-rank approximation of a matrix in the Matrix Product
+Operator (MPO) format, also called the Tensor Train Matrix format. Our tensor
+network randomized SVD (TNrSVD) algorithm is an MPO implementation of the
+randomized SVD algorithm that is able to compute dominant singular values and
+their corresponding singular vectors. In contrast to the state-of-the-art
+tensor-based alternating least squares SVD (ALS-SVD) and modified alternating
+least squares SVD (MALS-SVD) matrix approximation methods, TNrSVD can be up to
+17 times faster while achieving the same accuracy. In addition, our TNrSVD
+algorithm also produces accurate approximations in particular cases where both
+ALS-SVD and MALS-SVD fail to converge. We also propose a new algorithm for the
+fast conversion of a sparse matrix into its corresponding MPO form, which is up
+to 509 times faster than the standard Tensor Train SVD (TT-SVD) method while
+achieving machine precision accuracy. The efficiency and accuracy of both
+algorithms are demonstrated in numerical experiments.

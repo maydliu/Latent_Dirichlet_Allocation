@@ -1,0 +1,11 @@
+Title:
+Gaussian Graphical Models: An Algebraic and Geometric Perspective
+Abstract: Gaussian graphical models are used throughout the natural sciences, social
+sciences, and economics to model the statistical relationships between
+variables of interest in the form of a graph. We here provide a pedagogic
+introduction to Gaussian graphical models and review recent results on maximum
+likelihood estimation for such models. Throughout, we highlight the rich
+algebraic and geometric properties of Gaussian graphical models and explain how
+these properties relate to convex optimization and ultimately result in
+insights on the existence of the maximum likelihood estimator (MLE) and
+algorithms for computing the MLE.

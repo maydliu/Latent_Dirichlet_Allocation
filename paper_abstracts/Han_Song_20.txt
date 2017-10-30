@@ -1,0 +1,13 @@
+Title:
+A Survey on Low-cost RFID Authentication Protocols
+Abstract: This paper presents a survey on several RFID authentication protocols under
+low cost restrictions. Low cost RFID are mainly addressed with limited security
+and privacy protections. In this study, we explore several protocols with
+various authentication mechanisms found in literature that satisfy low cost
+restrictions. Assessments of these protocols are based on data protection,
+tracking protection, forward security. Finally, it is concluded that no single
+low cost RFID protocol fully meets the requirement of the given assessments.
+While a protocol satisfies one or two assessments, it fails to fully meet the
+requirement of the third assessment. This study provides a new insight in RFID
+literature which can be used particularly by small and medium industries to
+choose the appropriate RFID protocol for their needs.

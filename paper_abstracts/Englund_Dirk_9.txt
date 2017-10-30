@@ -1,0 +1,18 @@
+Title:
+Near-unity collection efficiency from quantum emitters in bulk diamond  using chirped circular dielectric gratings
+Abstract: Efficient collection of fluorescence from nitrogen vacancy (NV) centers in
+diamond underlies the spin-dependent optical read-out that is necessary for
+quantum information processing and enhanced sensing applications. The optical
+collection efficiency from NVs within diamond substrates is limited primarily
+due to the high refractive index of diamond and the non-directional dipole
+emission. Here we introduce a light collection strategy based on chirped,
+circular dielectric gratings that can be fabricated on a bulk diamond substrate
+to redirect an emitter's far-field radiation pattern. Using a genetic
+optimization algorithm, these grating designs achieve 98.9% collection
+efficiency for the NV zero-phonon emission line, collected from the back
+surface of the diamond with an objective of aperture 0.9. Across the broadband
+emission spectrum of the NV (600-800 nm), the chirped grating achieves 82.2%
+collection efficiency into a numerical aperture of 1.42, corresponding to an
+oil immersion objective again on the back side of the diamond. Our proposed
+bulk-dielectric grating structures are applicable to other optically active
+solid state quantum emitters in high index host materials.

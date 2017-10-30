@@ -1,0 +1,18 @@
+Title:
+Room temperature triplet state spectroscopy of organic semiconductors
+Abstract: Organic light emitting devices and solar cells are machines that create,
+manipulate and destroy excited states in organic semiconductors. It is crucial
+to characterize these excited states, or excitons, to optimize device
+performance in applications like displays and solar energy harvesting. This is
+complicated if the excited state is a triplet because the electronic transition
+is dark with a vanishing oscillator strength. As a consequence, triplet state
+spectroscopy must usually be performed at cryogenic temperatures to reduce
+competition from non-radiative rates. Here, we control non-radiative rates by
+engineering a solid-state host matrix containing the target molecule, allowing
+the observation of phosphorescence at room temperature and alleviating
+constraints of cryogenic experiments. We test these techniques on a wide range
+of materials with functionalities spanning multi-exciton generation (singlet
+exciton fission), organic light emitting device host materials, and thermally
+activated delayed fluorescence type emitters. Control of non-radiative modes in
+the matrix surrounding a target molecule may also have broader applications in
+light emitting and photovoltaic devices.

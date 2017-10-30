@@ -1,0 +1,26 @@
+Title:
+Entity Consolidation: The Golden Record Problem
+Abstract: Four key subprocesses in data integration are: data preparation (i.e.,
+transforming and cleaning data), schema integration (i.e., lining up like
+attributes), entity resolution (i.e., finding clusters of records that
+represent the same entity) and entity consolidation (i.e., merging each cluster
+into a "golden record" which contains the canonical values for each attribute).
+In real scenarios, the output of entity resolution typically contains multiple
+data formats and different abbreviations for cell values, in addition to the
+omnipresent problem of missing data. These issues make entity consolidation
+challenging.
+In this paper, we study the entity consolidation problem. Truth discovery
+systems can be used to solve this problem. They usually employ simplistic
+heuristics such as majority consensus (MC) or source authority to determine the
+golden record. However, these techniques are not capable of recognizing simple
+data variation, such as Jeff to Jeffery, and may give biased results. To
+address this issue, we propose to first reduce attribute variation by merging
+duplicate values before applying the truth discovery system to create the
+golden records. Comparing to the existing data transformation solutions, which
+typically try to transform an entire column from one format to another, our
+approach is more robust to data variety as we leverage the hidden matchings
+within the clusters. We tried our methods on three real-world datasets. In the
+best case, our methods reduced the variation in clusters by 75% with high
+precision (>98%) by having a human confirm only 100 generated matching groups.
+When we invoked our algorithm prior to running MC, we were able to improve the
+precision of golden record creation by 40%.

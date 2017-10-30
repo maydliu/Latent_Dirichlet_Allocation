@@ -1,0 +1,18 @@
+Title:
+Frequency pulling and mixing of relaxation oscillations in  superconducting nanowires
+Abstract: Many superconducting technologies such as rapid single flux quantum computing
+(RSFQ) and superconducting quantum interference devices (SQUIDs) rely on the
+modulation of nonlinear dynamics in Josephson junctions for functionality. More
+recently, however, superconducting devices have been developed based on the
+switching and thermal heating of nanowires for use in fields such as single
+photon detection and digital logic. In this paper, we use resistive shunting to
+control the nonlinear heating of a superconducting nanowire and compare the
+resulting dynamics to those observed in Josephson junctions. We show that
+interaction of the hotspot growth with the external shunt produces high
+frequency relaxation oscillations with similar behavior as observed in
+Josephson junctions due to their rapid time constants and ability to be
+modulated by a weak periodic signal. In particular, we use a microwave drive to
+pull and mix the oscillation frequency, resulting in phase locked features that
+resemble the AC Josephson effect. New nanowire devices based on these
+conclusions have promising applications in fields such as parametric
+amplification and frequency multiplexing.

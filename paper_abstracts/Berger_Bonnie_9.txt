@@ -1,0 +1,18 @@
+Title:
+Reconstructing Roma history from genome-wide data
+Abstract: The Roma people, living throughout Europe, are a diverse population linked by
+the Romani language and culture. Previous linguistic and genetic studies have
+suggested that the Roma migrated into Europe from South Asia about 1000-1500
+years ago. Genetic inferences about Roma history have mostly focused on the Y
+chromosome and mitochondrial DNA. To explore what additional information can be
+learned from genome-wide data, we analyzed data from six Roma groups that we
+genotyped at hundreds of thousands of single nucleotide polymorphisms (SNPs).
+We estimate that the Roma harbor about 80% West Eurasian ancestry-deriving from
+a combination of European and South Asian sources- and that the date of
+admixture of South Asian and European ancestry was about 850 years ago. We
+provide evidence for Eastern Europe being a major source of European ancestry,
+and North-west India being a major source of the South Asian ancestry in the
+Roma. By computing allele sharing as a measure of linkage disequilibrium, we
+estimate that the migration of Roma out of the Indian subcontinent was
+accompanied by a severe founder event, which we hypothesize was followed by a
+major demographic expansion once the population arrived in Europe.

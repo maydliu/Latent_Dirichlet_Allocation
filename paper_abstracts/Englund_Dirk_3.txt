@@ -1,0 +1,15 @@
+Title:
+Integrated nanoplasmonic quantum interfaces for room temperature single  photon sources
+Abstract: We describe a general analytical framework of a nanoplasmonic cavity-emitter
+system interacting with a dielectric photonic waveguide. Taking into account
+emitter quenching and dephasing, our model directly reveals the single photon
+extraction efficiency, $\eta$, as well as the indistinguishability, $I$, of
+photons coupled into the waveguide mode. Rather than minimizing the cavity
+modal volume, our analysis predicts an optimum modal volume to maximize $\eta$
+that balances waveguide coupling and spontaneous emission rate enhancement.
+Surprisingly, our model predicts that near-unity indistinguishability is
+possible, but this requires a much smaller modal volume, implying a fundamental
+performance trade-off between high $\eta$ and $I$ at room temperature. Finally,
+we show that maximizing $\eta I$ requires that the system has to be driven in
+the weak coupling regime because quenching effects and decreased waveguide
+coupling drastically reduce $\eta$ in the strong coupling regime.

@@ -1,0 +1,8 @@
+Title:
+Singularities of Whitham flows for hyperelliptic spectral curves
+Abstract: We consider the Whitham equations for deformations of hyperelliptic spectral
+curves, which preserve all periods of a meromorphic differential. If the
+meromorphic differential has a root at a fixed point of the hyperelliptic
+involution, then the Whitham flow has a singularity. We prove that the stable
+and unstable manifolds are non-empty and extend the Whitham flow continuously
+through the singularity.

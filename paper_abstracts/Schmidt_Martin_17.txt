@@ -1,0 +1,15 @@
+Title:
+The roundtable: an abstract model of conversation dynamics
+Abstract: Is it possible to abstract a formal mechanism originating schisms and
+governing the size evolution of social conversations? In this work a
+constructive solution to such problem is proposed: an abstract model of a
+generic N-party turn-taking conversation. The model develops from simple yet
+realistic assumptions derived from experimental evidence, abstracts from
+conversation content and semantics while including topological information, and
+is driven by stochastic dynamics. We find that a single mechanism - namely the
+dynamics of conversational party's individual fitness, as related to
+conversation size - controls the development of the self-organized schisming
+phenomenon. Potential generalizations of the model - including individual
+traits and preferences, memory effects and more elaborated conversational
+topologies - may find important applications also in other fields of research,
+where dynamically-interacting and networked agents play a fundamental role.

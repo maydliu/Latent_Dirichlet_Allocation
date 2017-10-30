@@ -1,0 +1,11 @@
+Title:
+Magnetic properties of a metal-organic antiferromagnet on a distorted  honeycomb lattice
+Abstract: For temperatures T well above the ordering temperature T*=3.0+-0.2K the
+magnetic properties of the metal-organic material Mn[C10H6(OH)(COO)]2x2H20
+built from Mn^2+ ions and 3-hydroxy-2-naphthoic anions can be described by a
+S=5/2 quantum antiferromagnet on a distorted honeycomb lattice with two
+different nearest neighbor exchange couplings J2 \approx 2J1 \approx 1.8K.
+Measurements of the magnetization M(H,T) as a function of a uniform external
+field H and of the uniform zero field susceptibility \chi(T) are explained
+within the framework of a modified spin-wave approach which takes into account
+the absence of a spontaneous staggered magnetization at finite temperatures.

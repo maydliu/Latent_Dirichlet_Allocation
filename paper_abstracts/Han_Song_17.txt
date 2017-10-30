@@ -1,0 +1,15 @@
+Title:
+Software Cognitive Information Measure based on Relation Between  Structures
+Abstract: Cognitive complexity measures quantify human difficulty in understanding the
+source code based on cognitive informatics foundation. The discipline derives
+cognitive complexity on a basis of fundamental software factors i.e, inputs,
+outputs, and internal processing architecture. An approach to integrating
+Granular Computing into the new measure called Structured Cognitive Information
+Measure or SCIM. The proposed measure unifies and re-organizes complexity
+factors analogous to human cognitive process. However, according to the
+methodology of software and the scope of the variables, Information Complexity
+Number(ICN) of variables is depended on change of variable value and cognitive
+complexity is measured in several ways. In this paper, we define the Scope
+Information Complexity Number (SICN) and present the cognitive complexity based
+on functional decomposition of software, including theoretical validation
+through nine Weyuker's properties.

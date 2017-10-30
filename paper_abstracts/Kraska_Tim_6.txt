@@ -1,0 +1,21 @@
+Title:
+Stale View Cleaning: Getting Fresh Answers from Stale Materialized Views
+Abstract: Materialized views (MVs), stored pre-computed results, are widely used to
+facilitate fast queries on large datasets. When new records arrive at a high
+rate, it is infeasible to continuously update (maintain) MVs and a common
+solution is to defer maintenance by batching updates together. Between batches
+the MVs become increasingly stale with incorrect, missing, and superfluous rows
+leading to increasingly inaccurate query results. We propose Stale View
+Cleaning (SVC) which addresses this problem from a data cleaning perspective.
+In SVC, we efficiently clean a sample of rows from a stale MV, and use the
+clean sample to estimate aggregate query results. While approximate, the
+estimated query results reflect the most recent data. As sampling can be
+sensitive to long-tailed distributions, we further explore an outlier indexing
+technique to give increased accuracy when the data distributions are skewed.
+SVC complements existing deferred maintenance approaches by giving accurate and
+bounded query answers between maintenance. We evaluate our method on a
+generated dataset from the TPC-D benchmark and a real video distribution
+application. Experiments confirm our theoretical results: (1) cleaning an MV
+sample is more efficient than full view maintenance, (2) the estimated results
+are more accurate than using the stale MV, and (3) SVC is applicable for a wide
+variety of MVs.

@@ -1,0 +1,26 @@
+Title:
+Structural Resolution: a Framework for Coinductive Proof Search and  Proof Construction in Horn Clause Logic
+Abstract: Logic programming (LP) is a programming language based on first-order Horn
+clause logic that uses SLD-resolution as a semi-decision procedure. Finite
+SLD-computations are inductively sound and complete with respect to least
+Herbrand models of logic programs. Dually, the corecursive approach to
+SLD-resolution views infinite SLD-computations as successively approximating
+infinite terms contained in programs' greatest complete Herbrand models.
+State-of-the-art algorithms implementing corecursion in LP are based on loop
+detection. However, such algorithms support inference of logical entailment
+only for rational terms, and they do not account for the important property of
+productivity in infinite SLD-computations. Loop detection thus lags behind
+coinductive methods in interactive theorem proving (ITP) and term-rewriting
+systems (TRS).
+Structural resolution is a newly proposed alternative to SLD-resolution that
+makes it possible to define and semi-decide a notion of productivity
+appropriate to LP. In this paper, we prove soundness of structural resolution
+relative to Herbrand model semantics for productive inductive, coinductive, and
+mixed inductive-coinductive logic programs.
+We introduce two algorithms that support coinductive proof search for
+infinite productive terms. One algorithm combines the method of loop detection
+with productive structural resolution, thus guaranteeing productivity of
+coinductive proofs for infinite rational terms. The other allows to make lazy
+sound observations of fragments of infinite irrational productive terms. This
+puts coinductive methods in LP on par with productivity-based observational
+approaches to coinduction in ITP and TRS.
